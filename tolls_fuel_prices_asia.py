@@ -11,8 +11,12 @@ def parse_price(price_str):
     parts = price_str.strip().split()
     if len(parts) >= 2 and parts[0] == '€':
         eur_price = parts[1]
-        local_price = ' '.join(parts[2:]) if len(parts) > 2 else None
-        return {'eur': eur_price, 'local': local_price}
+        local_parts = parts[2:] if len(parts) > 2 else []
+        if local_parts:
+            currency = local_parts[0]
+            value = ' '.join(local_parts[1:]) if len(local_parts) > 1 else None
+            return {'eur': eur_price, 'local': {'currency': currency, 'value': value}}
+        return {'eur': eur_price, 'local': None}
     
     return {'eur': None, 'local': price_str}
 
