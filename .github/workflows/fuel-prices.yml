@@ -29,17 +29,18 @@ jobs:
           python tolls_fuel_prices_europe.py > tolls_fuel_prices_europe.json
           python tolls_fuel_prices_asia.py > tolls_fuel_prices_asia.json
           python tolls_fuel_prices_america.py > tolls_fuel_prices_america.json
+          python currency_rates.py > currency_rates.json
 
       - name: Commit changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          git add fuel_prices.json gasoline_prices.json tolls_fuel_prices_europe.json tolls_fuel_prices_asia.json tolls_fuel_prices_america.json
+          git add fuel_prices.json gasoline_prices.json tolls_fuel_prices_europe.json tolls_fuel_prices_asia.json tolls_fuel_prices_america.json currency_rates.json
           
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Update fuel prices $(date -u +'%Y-%m-%d %H:%M:%S')"
+            git commit -m "Update data $(date -u +'%Y-%m-%d %H:%M:%S')"
             git push
           fi
