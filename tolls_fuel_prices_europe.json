@@ -1,0 +1,651 @@
+{
+  "continent": "europe",
+  "data_date": "2026-04-06",
+  "updated_at": "2026-04-14T09:07:14.001538+00:00",
+  "countries": {
+    "Albania": {
+      "gasoline95": {
+        "eur": "2.06",
+        "local": "Lek 197"
+      },
+      "diesel": {
+        "eur": "2.21",
+        "local": "Lek 212"
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Andorra": {
+      "gasoline95": {
+        "eur": "1.60",
+        "local": null
+      },
+      "diesel": {
+        "eur": "1.80",
+        "local": null
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Austria": {
+      "gasoline95": {
+        "eur": "1.79",
+        "local": null
+      },
+      "diesel": {
+        "eur": "2.23",
+        "local": null
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Belarus": {
+      "gasoline95": {
+        "eur": "0.79",
+        "local": "Br 2.65"
+      },
+      "diesel": {
+        "eur": "0.79",
+        "local": "Br 2.65"
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Belgium": {
+      "gasoline95": {
+        "eur": "1.90",
+        "local": null
+      },
+      "diesel": {
+        "eur": "2.31",
+        "local": null
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Bosnia and Herzegovina": {
+      "gasoline95": {
+        "eur": "1.38",
+        "local": "KM 2.70"
+      },
+      "diesel": {
+        "eur": "1.71",
+        "local": "KM 3.35"
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Bulgaria": {
+      "gasoline95": {
+        "eur": "1.46",
+        "local": "лв. 2.85"
+      },
+      "diesel": {
+        "eur": "1.70",
+        "local": "лв. 3.32"
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Croatia": {
+      "gasoline95": {
+        "eur": "1.68",
+        "local": null
+      },
+      "diesel": {
+        "eur": "1.87",
+        "local": null
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Cyprus": {
+      "gasoline95": {
+        "eur": "1.51",
+        "local": null
+      },
+      "diesel": {
+        "eur": "1.84",
+        "local": null
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Czechia": {
+      "gasoline95": {
+        "eur": "1.69",
+        "local": "Kč 41.20"
+      },
+      "diesel": {
+        "eur": "1.98",
+        "local": "Kč 48.20"
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Denmark": {
+      "gasoline95": {
+        "eur": "2.32",
+        "local": "kr. 17.40"
+      },
+      "diesel": {
+        "eur": "2.56",
+        "local": "kr. 19.10"
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Estonia": {
+      "gasoline95": {
+        "eur": "1.78",
+        "local": null
+      },
+      "diesel": {
+        "eur": "2.03",
+        "local": null
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Finland": {
+      "gasoline95": {
+        "eur": "2.01",
+        "local": null
+      },
+      "diesel": {
+        "eur": "2.26",
+        "local": null
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "France": {
+      "gasoline95": {
+        "eur": "2.03",
+        "local": null
+      },
+      "diesel": {
+        "eur": "2.23",
+        "local": null
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Georgia": {
+      "gasoline95": {
+        "eur": "1.13",
+        "local": "₾ 3.58"
+      },
+      "diesel": {
+        "eur": "1.23",
+        "local": "₾ 3.88"
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Germany": {
+      "gasoline95": {
+        "eur": "2.24",
+        "local": null
+      },
+      "diesel": {
+        "eur": "2.43",
+        "local": null
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Greece": {
+      "gasoline95": {
+        "eur": "2.07",
+        "local": null
+      },
+      "diesel": {
+        "eur": "2.07",
+        "local": null
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Hungary": {
+      "gasoline95": {
+        "eur": "1.57",
+        "local": "Ft 572"
+      },
+      "diesel": {
+        "eur": "1.67",
+        "local": "Ft 605"
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Iceland": {
+      "gasoline95": {
+        "eur": "1.50",
+        "local": "kr 215"
+      },
+      "diesel": {
+        "eur": "1.77",
+        "local": "kr 254"
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Ireland": {
+      "gasoline95": {
+        "eur": "1.88",
+        "local": null
+      },
+      "diesel": {
+        "eur": "2.10",
+        "local": null
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Italy": {
+      "gasoline95": {
+        "eur": "1.76",
+        "local": null
+      },
+      "diesel": {
+        "eur": "2.09",
+        "local": null
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Latvia": {
+      "gasoline95": {
+        "eur": "1.84",
+        "local": null
+      },
+      "diesel": {
+        "eur": "2.06",
+        "local": null
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Liechtenstein": {
+      "gasoline95": {
+        "eur": "2.12",
+        "local": "CHF 1.96"
+      },
+      "diesel": {
+        "eur": "2.44",
+        "local": "CHF 2.24"
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Lithuania": {
+      "gasoline95": {
+        "eur": "1.76",
+        "local": null
+      },
+      "diesel": {
+        "eur": "2.18",
+        "local": null
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Luxembourg": {
+      "gasoline95": {
+        "eur": "1.76",
+        "local": null
+      },
+      "diesel": {
+        "eur": "2.19",
+        "local": null
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Malta": {
+      "gasoline95": {
+        "eur": "1.34",
+        "local": null
+      },
+      "diesel": {
+        "eur": "1.21",
+        "local": null
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Moldova": {
+      "gasoline95": {
+        "eur": "1.46",
+        "local": "lei 29.30"
+      },
+      "diesel": {
+        "eur": "1.68",
+        "local": "lei 33.80"
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Monaco": {
+      "gasoline95": {
+        "eur": "2.20",
+        "local": null
+      },
+      "diesel": {
+        "eur": "1.97",
+        "local": null
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Montenegro": {
+      "gasoline95": {
+        "eur": "1.58",
+        "local": null
+      },
+      "diesel": {
+        "eur": "1.77",
+        "local": null
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Netherlands": {
+      "gasoline95": {
+        "eur": "2.36",
+        "local": null
+      },
+      "diesel": {
+        "eur": "2.58",
+        "local": null
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "North Macedonia": {
+      "gasoline95": {
+        "eur": "1.34",
+        "local": "den 82.40"
+      },
+      "diesel": {
+        "eur": "1.57",
+        "local": "den 96.90"
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Norway": {
+      "gasoline95": {
+        "eur": "1.87",
+        "local": "kr 20.80"
+      },
+      "diesel": {
+        "eur": "2.24",
+        "local": "kr 24.80"
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Poland": {
+      "gasoline95": {
+        "eur": "1.43",
+        "local": "zł 6.08"
+      },
+      "diesel": {
+        "eur": "1.80",
+        "local": "zł 7.65"
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Portugal": {
+      "gasoline95": {
+        "eur": "1.94",
+        "local": null
+      },
+      "diesel": {
+        "eur": "2.13",
+        "local": null
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Romania": {
+      "gasoline95": {
+        "eur": "1.80",
+        "local": "lei 9.15"
+      },
+      "diesel": {
+        "eur": "2.02",
+        "local": "lei 10.30"
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Russia": {
+      "gasoline95": {
+        "eur": "0.74",
+        "local": "₽ 66.20"
+      },
+      "diesel": {
+        "eur": "0.85",
+        "local": "₽ 76.10"
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "San Marino": {
+      "gasoline95": {
+        "eur": "1.54",
+        "local": null
+      },
+      "diesel": {
+        "eur": "1.93",
+        "local": null
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Serbia": {
+      "gasoline95": {
+        "eur": "1.60",
+        "local": "din 188"
+      },
+      "diesel": {
+        "eur": "1.81",
+        "local": "din 213"
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Slovakia": {
+      "gasoline95": {
+        "eur": "1.67",
+        "local": null
+      },
+      "diesel": {
+        "eur": "1.75",
+        "local": null
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Slovenia": {
+      "gasoline95": {
+        "eur": "1.61",
+        "local": null
+      },
+      "diesel": {
+        "eur": "1.77",
+        "local": null
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Spain": {
+      "gasoline95": {
+        "eur": "1.55",
+        "local": null
+      },
+      "diesel": {
+        "eur": "1.81",
+        "local": null
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Sweden": {
+      "gasoline95": {
+        "eur": "1.75",
+        "local": "kr 18.90"
+      },
+      "diesel": {
+        "eur": "2.20",
+        "local": "kr 23.80"
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Switzerland": {
+      "gasoline95": {
+        "eur": "2.01",
+        "local": "CHF 1.85"
+      },
+      "diesel": {
+        "eur": "2.36",
+        "local": "CHF 2.18"
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Turkey": {
+      "gasoline95": {
+        "eur": "1.09",
+        "local": "₺ 57.50"
+      },
+      "diesel": {
+        "eur": "1.32",
+        "local": "₺ 69.40"
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "Ukraine": {
+      "gasoline95": {
+        "eur": "1.44",
+        "local": "₴ 73.70"
+      },
+      "diesel": {
+        "eur": "1.77",
+        "local": "₴ 90.90"
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
+    "United Kingdom": {
+      "gasoline95": {
+        "eur": "1.77",
+        "local": "£ 1.54"
+      },
+      "diesel": {
+        "eur": "2.14",
+        "local": "£ 1.86"
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    }
+  }
+}
