@@ -1,28 +1,40 @@
 import httpx
-import re
 import json
 from datetime import datetime, timezone
+from bs4 import BeautifulSoup
 
 
-def parse_price(price_str):
-    if not price_str:
+def parse_price_td(td):
+    if not td:
         return {'eur': None, 'local': None}
-    
-    parts = price_str.strip().split()
-    if len(parts) >= 2 and parts[0] == '€':
-        eur_price = parts[1]
-        local_parts = parts[2:] if len(parts) > 2 else []
-        if local_parts:
-            currency = local_parts[0]
-            value = ' '.join(local_parts[1:]) if len(local_parts) > 1 else None
-            return {'eur': eur_price, 'local': {'currency': currency, 'value': value}}
-        return {'eur': eur_price, 'local': None}
-    
-    return {'eur': None, 'local': price_str}
+
+    text = td.contents[0].strip() if td.contents else ''
+    span = td.find('span', class_='fuel-price-small')
+    local_text = span.get_text(strip=True) if span else ''
+
+    eur = None
+    local = None
+
+    if text.startswith('€'):
+        eur = text.split()[1] if len(text.split()) > 1 else None
+
+    if local_text:
+        local_parts = local_text.split()
+        if len(local_parts) >= 2:
+            local = {'currency': local_parts[0], 'value': ' '.join(local_parts[1:])}
+        elif len(local_parts) == 1:
+            local = {'currency': local_parts[0], 'value': None}
+    elif td.get_text(strip=True) == '-':
+        return {'eur': None, 'local': None}
+
+    return {'eur': eur, 'local': local}
 
 
 def parse_data_date(html):
-    date_match = re.search(r'as of (\d+)\. (\w+) (\d{4})', html)
+    soup = BeautifulSoup(html, 'html.parser')
+    text = soup.get_text()
+    import re
+    date_match = re.search(r'as of (\d+)\. (\w+) (\d{4})', text)
     if date_match:
         day, month_name, year = date_match.groups()
         month_map = {
@@ -44,18 +56,20 @@ def get_fuel_prices():
 
     html = response.text
     data_date = parse_data_date(html)
-    rows = re.findall(r'<div class="tr[^"]*"[^>]*>(.*?)</div>\s*</div>', html, re.DOTALL)
+
+    soup = BeautifulSoup(html, 'html.parser')
+    rows = soup.find_all('div', class_='tr')
 
     countries = {}
-    for row in rows[1:]:
-        cells = re.findall(r'<div class="td[^"]*"[^>]*>(.*?)</div>', row, re.DOTALL)
-        if len(cells) >= 3:
-            country = re.sub(r'<[^>]+>', '', cells[1]).strip()
-            if country:
+    for row in rows:
+        cells = row.find_all('div', class_='td')
+        if len(cells) >= 5:
+            country = cells[1].get_text(strip=True)
+            if country and country != 'Country':
                 countries[country] = {
-                    'gasoline95': parse_price(re.sub(r'<[^>]+>', '', cells[2]).strip() if len(cells) > 2 else ''),
-                    'diesel': parse_price(re.sub(r'<[^>]+>', '', cells[3]).strip() if len(cells) > 3 else ''),
-                    'lpg': parse_price(re.sub(r'<[^>]+>', '', cells[4]).strip() if len(cells) > 4 else '')
+                    'gasoline95': parse_price_td(cells[2]),
+                    'diesel': parse_price_td(cells[3]),
+                    'lpg': parse_price_td(cells[4])
                 }
 
     return {
