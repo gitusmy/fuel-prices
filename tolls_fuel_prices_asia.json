@@ -1,7 +1,7 @@
 {
   "continent": "asia",
   "data_date": "2026-04-27",
-  "updated_at": "2026-05-02T07:17:11.825308+00:00",
+  "updated_at": "2026-05-02T20:46:25.184088+00:00",
   "countries": {
     "Afghanistan": {
       "gasoline95": {
@@ -19,8 +19,11 @@
         }
       },
       "lpg": {
-        "eur": null,
-        "local": null
+        "eur": "0.77",
+        "local": {
+          "currency": "؋",
+          "value": "58.50"
+        }
       }
     },
     "Armenia": {
@@ -39,8 +42,11 @@
         }
       },
       "lpg": {
-        "eur": null,
-        "local": null
+        "eur": "0.58",
+        "local": {
+          "currency": "֏",
+          "value": "250"
+        }
       }
     },
     "Azerbaijan": {
@@ -59,8 +65,11 @@
         }
       },
       "lpg": {
-        "eur": null,
-        "local": null
+        "eur": "0.35",
+        "local": {
+          "currency": "₼",
+          "value": "0.70"
+        }
       }
     },
     "Bahrain": {
@@ -199,8 +208,11 @@
         }
       },
       "lpg": {
-        "eur": null,
-        "local": null
+        "eur": "0.60",
+        "local": {
+          "currency": "₹",
+          "value": "67.00"
+        }
       }
     },
     "Indonesia": {
@@ -253,7 +265,7 @@
       },
       "diesel": {
         "eur": null,
-        "local": "-"
+        "local": null
       },
       "lpg": {
         "eur": null,
@@ -276,8 +288,11 @@
         }
       },
       "lpg": {
-        "eur": null,
-        "local": null
+        "eur": "1.39",
+        "local": {
+          "currency": "₪",
+          "value": "4.79"
+        }
       }
     },
     "Japan": {
@@ -416,8 +431,11 @@
         }
       },
       "lpg": {
-        "eur": null,
-        "local": null
+        "eur": "0.71",
+        "local": {
+          "currency": "LL",
+          "value": "74105"
+        }
       }
     },
     "Malaysia": {
@@ -476,8 +494,11 @@
         }
       },
       "lpg": {
-        "eur": null,
-        "local": null
+        "eur": "0.63",
+        "local": {
+          "currency": "₮",
+          "value": "2657"
+        }
       }
     },
     "Myanmar": {
@@ -576,8 +597,11 @@
         }
       },
       "lpg": {
-        "eur": null,
-        "local": null
+        "eur": "0.71",
+        "local": {
+          "currency": "₱",
+          "value": "50.90"
+        }
       }
     },
     "Qatar": {
@@ -616,8 +640,11 @@
         }
       },
       "lpg": {
-        "eur": null,
-        "local": null
+        "eur": "0.25",
+        "local": {
+          "currency": "SAR",
+          "value": "1.09"
+        }
       }
     },
     "Singapore": {
@@ -656,8 +683,11 @@
         }
       },
       "lpg": {
-        "eur": null,
-        "local": null
+        "eur": "0.60",
+        "local": {
+          "currency": "₩",
+          "value": "1037"
+        }
       }
     },
     "Sri Lanka": {
@@ -716,8 +746,11 @@
         }
       },
       "lpg": {
-        "eur": null,
-        "local": null
+        "eur": "0.44",
+        "local": {
+          "currency": "NT$",
+          "value": "16.30"
+        }
       }
     },
     "Thailand": {

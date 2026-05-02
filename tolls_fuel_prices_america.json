@@ -1,7 +1,7 @@
 {
   "continent": "americas",
   "data_date": "2026-04-27",
-  "updated_at": "2026-05-02T07:17:12.296944+00:00",
+  "updated_at": "2026-05-02T20:46:25.786702+00:00",
   "countries": {
     "Argentina": {
       "gasoline95": {
@@ -19,8 +19,11 @@
         }
       },
       "lpg": {
-        "eur": null,
-        "local": null
+        "eur": "0.51",
+        "local": {
+          "currency": "$",
+          "value": "828"
+        }
       }
     },
     "Aruba": {
@@ -139,8 +142,11 @@
         }
       },
       "lpg": {
-        "eur": null,
-        "local": null
+        "eur": "0.77",
+        "local": {
+          "currency": "R$",
+          "value": "4.45"
+        }
       }
     },
     "Canada": {
@@ -199,8 +205,11 @@
         }
       },
       "lpg": {
-        "eur": null,
-        "local": null
+        "eur": "0.60",
+        "local": {
+          "currency": "$",
+          "value": "628"
+        }
       }
     },
     "Colombia": {
@@ -459,8 +468,11 @@
         }
       },
       "lpg": {
-        "eur": null,
-        "local": null
+        "eur": "0.41",
+        "local": {
+          "currency": "L",
+          "value": "12.70"
+        }
       }
     },
     "Jamaica": {
@@ -559,8 +571,11 @@
         }
       },
       "lpg": {
-        "eur": null,
-        "local": null
+        "eur": "0.58",
+        "local": {
+          "currency": "₲",
+          "value": "4222"
+        }
       }
     },
     "Peru": {
@@ -579,8 +594,11 @@
         }
       },
       "lpg": {
-        "eur": null,
-        "local": null
+        "eur": "0.54",
+        "local": {
+          "currency": "S/.",
+          "value": "2.24"
+        }
       }
     },
     "Puerto Rico": {

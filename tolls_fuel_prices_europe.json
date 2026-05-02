@@ -1,7 +1,7 @@
 {
   "continent": "europe",
   "data_date": "2026-04-27",
-  "updated_at": "2026-05-02T07:17:11.359556+00:00",
+  "updated_at": "2026-05-02T20:46:24.579685+00:00",
   "countries": {
     "Albania": {
       "gasoline95": {
@@ -19,8 +19,11 @@
         }
       },
       "lpg": {
-        "eur": null,
-        "local": null
+        "eur": "0.67",
+        "local": {
+          "currency": "Lek",
+          "value": "64.00"
+        }
       }
     },
     "Andorra": {
@@ -67,8 +70,11 @@
         }
       },
       "lpg": {
-        "eur": null,
-        "local": null
+        "eur": "0.40",
+        "local": {
+          "currency": "Br",
+          "value": "1.33"
+        }
       }
     },
     "Belgium": {
@@ -81,7 +87,7 @@
         "local": null
       },
       "lpg": {
-        "eur": null,
+        "eur": "0.93",
         "local": null
       }
     },
@@ -101,8 +107,11 @@
         }
       },
       "lpg": {
-        "eur": null,
-        "local": null
+        "eur": "0.72",
+        "local": {
+          "currency": "KM",
+          "value": "1.41"
+        }
       }
     },
     "Bulgaria": {
@@ -121,8 +130,11 @@
         }
       },
       "lpg": {
-        "eur": null,
-        "local": null
+        "eur": "0.81",
+        "local": {
+          "currency": "лв.",
+          "value": "1.58"
+        }
       }
     },
     "Croatia": {
@@ -135,7 +147,7 @@
         "local": null
       },
       "lpg": {
-        "eur": null,
+        "eur": "1.02",
         "local": null
       }
     },
@@ -169,8 +181,11 @@
         }
       },
       "lpg": {
-        "eur": null,
-        "local": null
+        "eur": "0.97",
+        "local": {
+          "currency": "Kč",
+          "value": "23.60"
+        }
       }
     },
     "Denmark": {
@@ -203,7 +218,7 @@
         "local": null
       },
       "lpg": {
-        "eur": null,
+        "eur": "0.98",
         "local": null
       }
     },
@@ -231,7 +246,7 @@
         "local": null
       },
       "lpg": {
-        "eur": null,
+        "eur": "1.06",
         "local": null
       }
     },
@@ -265,7 +280,7 @@
         "local": null
       },
       "lpg": {
-        "eur": null,
+        "eur": "1.15",
         "local": null
       }
     },
@@ -299,8 +314,11 @@
         }
       },
       "lpg": {
-        "eur": null,
-        "local": null
+        "eur": "1.02",
+        "local": {
+          "currency": "Ft",
+          "value": "371"
+        }
       }
     },
     "Iceland": {
@@ -347,7 +365,7 @@
         "local": null
       },
       "lpg": {
-        "eur": null,
+        "eur": "0.81",
         "local": null
       }
     },
@@ -361,7 +379,7 @@
         "local": null
       },
       "lpg": {
-        "eur": null,
+        "eur": "1.07",
         "local": null
       }
     },
@@ -395,7 +413,7 @@
         "local": null
       },
       "lpg": {
-        "eur": null,
+        "eur": "0.91",
         "local": null
       }
     },
@@ -409,7 +427,7 @@
         "local": null
       },
       "lpg": {
-        "eur": null,
+        "eur": "0.80",
         "local": null
       }
     },
@@ -443,8 +461,11 @@
         }
       },
       "lpg": {
-        "eur": null,
-        "local": null
+        "eur": "0.40",
+        "local": {
+          "currency": "lei",
+          "value": "8.11"
+        }
       }
     },
     "Monaco": {
@@ -471,7 +492,7 @@
         "local": null
       },
       "lpg": {
-        "eur": null,
+        "eur": "0.71",
         "local": null
       }
     },
@@ -485,7 +506,7 @@
         "local": null
       },
       "lpg": {
-        "eur": null,
+        "eur": "1.03",
         "local": null
       }
     },
@@ -505,8 +526,11 @@
         }
       },
       "lpg": {
-        "eur": null,
-        "local": null
+        "eur": "0.88",
+        "local": {
+          "currency": "den",
+          "value": "53.90"
+        }
       }
     },
     "Norway": {
@@ -525,8 +549,11 @@
         }
       },
       "lpg": {
-        "eur": null,
-        "local": null
+        "eur": "1.25",
+        "local": {
+          "currency": "kr",
+          "value": "13.60"
+        }
       }
     },
     "Poland": {
@@ -545,8 +572,11 @@
         }
       },
       "lpg": {
-        "eur": null,
-        "local": null
+        "eur": "0.89",
+        "local": {
+          "currency": "zł",
+          "value": "3.80"
+        }
       }
     },
     "Portugal": {
@@ -559,7 +589,7 @@
         "local": null
       },
       "lpg": {
-        "eur": null,
+        "eur": "1.03",
         "local": null
       }
     },
@@ -579,8 +609,11 @@
         }
       },
       "lpg": {
-        "eur": null,
-        "local": null
+        "eur": "0.80",
+        "local": {
+          "currency": "lei",
+          "value": "4.19"
+        }
       }
     },
     "Russia": {
@@ -599,8 +632,11 @@
         }
       },
       "lpg": {
-        "eur": null,
-        "local": null
+        "eur": "0.35",
+        "local": {
+          "currency": "₽",
+          "value": "30.40"
+        }
       }
     },
     "San Marino": {
@@ -613,7 +649,7 @@
         "local": null
       },
       "lpg": {
-        "eur": null,
+        "eur": "0.78",
         "local": null
       }
     },
@@ -633,8 +669,11 @@
         }
       },
       "lpg": {
-        "eur": null,
-        "local": null
+        "eur": "0.92",
+        "local": {
+          "currency": "din",
+          "value": "108"
+        }
       }
     },
     "Slovakia": {
@@ -647,7 +686,7 @@
         "local": null
       },
       "lpg": {
-        "eur": null,
+        "eur": "0.90",
         "local": null
       }
     },
@@ -661,7 +700,7 @@
         "local": null
       },
       "lpg": {
-        "eur": null,
+        "eur": "1.05",
         "local": null
       }
     },
@@ -675,7 +714,7 @@
         "local": null
       },
       "lpg": {
-        "eur": null,
+        "eur": "1.02",
         "local": null
       }
     },
@@ -715,8 +754,11 @@
         }
       },
       "lpg": {
-        "eur": null,
-        "local": null
+        "eur": "1.19",
+        "local": {
+          "currency": "CHF",
+          "value": "1.09"
+        }
       }
     },
     "Turkey": {
@@ -755,8 +797,11 @@
         }
       },
       "lpg": {
-        "eur": null,
-        "local": null
+        "eur": "0.95",
+        "local": {
+          "currency": "₴",
+          "value": "48.90"
+        }
       }
     },
     "United Kingdom": {
