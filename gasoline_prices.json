@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-03T07:44:29.935704+00:00",
+  "updated_at": "2026-05-04T08:13:35.790037+00:00",
   "continent": "world",
   "countries": [
     {
@@ -108,13 +108,6 @@
       "unit": "USD/Liter"
     },
     {
-      "country": "Paraguay",
-      "last": 0.86,
-      "previous": 0.8,
-      "reference": "Mar/26",
-      "unit": "USD/Liter"
-    },
-    {
       "country": "Belarus",
       "last": 0.88,
       "previous": 0.79,
@@ -136,13 +129,6 @@
       "unit": "USD/Liter"
     },
     {
-      "country": "United States",
-      "last": 0.96,
-      "previous": 0.77,
-      "reference": "Mar/26",
-      "unit": "USD/Liter"
-    },
-    {
       "country": "Honduras",
       "last": 0.97,
       "previous": 1.11,
@@ -160,6 +146,13 @@
       "country": "India",
       "last": 1.01,
       "previous": 1.01,
+      "reference": "Apr/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Paraguay",
+      "last": 1.03,
+      "previous": 0.86,
       "reference": "Apr/26",
       "unit": "USD/Liter"
     },
@@ -186,6 +179,13 @@
     },
     {
       "country": "Puerto Rico",
+      "last": 1.08,
+      "previous": 0.96,
+      "reference": "Apr/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "United States",
       "last": 1.08,
       "previous": 0.96,
       "reference": "Apr/26",
@@ -269,13 +269,6 @@
       "unit": "USD/Liter"
     },
     {
-      "country": "Costa Rica",
-      "last": 1.36,
-      "previous": 1.25,
-      "reference": "Mar/26",
-      "unit": "USD/Liter"
-    },
-    {
       "country": "Mexico",
       "last": 1.36,
       "previous": 1.35,
@@ -290,8 +283,22 @@
       "unit": "USD/Liter"
     },
     {
+      "country": "Australia",
+      "last": 1.38,
+      "previous": 1.74,
+      "reference": "Apr/26",
+      "unit": "USD/Liter"
+    },
+    {
       "country": "Guatemala",
       "last": 1.38,
+      "previous": 1.36,
+      "reference": "Apr/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Costa Rica",
+      "last": 1.39,
       "previous": 1.36,
       "reference": "Apr/26",
       "unit": "USD/Liter"
@@ -392,13 +399,6 @@
       "last": 1.7,
       "previous": 1.82,
       "reference": "Apr/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Australia",
-      "last": 1.74,
-      "previous": 1.22,
-      "reference": "Mar/26",
       "unit": "USD/Liter"
     },
     {
