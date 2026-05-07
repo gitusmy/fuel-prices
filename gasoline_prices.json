@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06T08:03:14.155219+00:00",
+  "updated_at": "2026-05-07T08:10:46.372378+00:00",
   "continent": "world",
   "countries": [
     {
@@ -346,13 +346,6 @@
       "unit": "USD/Liter"
     },
     {
-      "country": "Tanzania",
-      "last": 1.47,
-      "previous": 1.12,
-      "reference": "Apr/26",
-      "unit": "USD/Liter"
-    },
-    {
       "country": "Ukraine",
       "last": 1.52,
       "previous": 1.52,
@@ -378,6 +371,13 @@
       "last": 1.57,
       "previous": 1.55,
       "reference": "Apr/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Tanzania",
+      "last": 1.58,
+      "previous": 1.47,
+      "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
