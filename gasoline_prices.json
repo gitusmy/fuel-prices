@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T08:36:04.566373+00:00",
+  "updated_at": "2026-05-16T07:46:56.200086+00:00",
   "continent": "world",
   "countries": [
     {
@@ -146,7 +146,7 @@
       "country": "India",
       "last": 1.01,
       "previous": 1.01,
-      "reference": "Apr/26",
+      "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
