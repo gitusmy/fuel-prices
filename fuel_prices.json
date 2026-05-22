@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-21T08:52:23.138984+00:00",
-  "revision": 5567,
+  "updated_at": "2026-05-22T08:45:55.220859+00:00",
+  "revision": 5569,
   "week": 20,
   "year": 2026,
   "countryCount": 47,
@@ -10,7 +10,7 @@
       "currency": "€",
       "fuels": {
         "A95": {
-          "currentPrice": 11.82,
+          "currentPrice": 11.83,
           "previousPrice": null
         },
         "A98": {
@@ -62,7 +62,7 @@
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 11.71,
+          "currentPrice": 11.72,
           "previousPrice": null
         },
         "LPG": {
@@ -76,7 +76,7 @@
       "currency": "€",
       "fuels": {
         "A95": {
-          "currentPrice": 11.95,
+          "currentPrice": 11.96,
           "previousPrice": null
         },
         "A98": {
@@ -132,7 +132,7 @@
           "previousPrice": null
         },
         "LPG": {
-          "currentPrice": 10.35,
+          "currentPrice": 10.36,
           "previousPrice": null
         }
       }
@@ -198,7 +198,7 @@
           "previousPrice": null
         },
         "LPG": {
-          "currentPrice": 10.9,
+          "currentPrice": 10.91,
           "previousPrice": null
         }
       }
@@ -208,7 +208,7 @@
       "currency": "€",
       "fuels": {
         "A95": {
-          "currentPrice": 11.51,
+          "currentPrice": 11.52,
           "previousPrice": null
         },
         "A98": {
@@ -230,7 +230,7 @@
       "currency": "€",
       "fuels": {
         "A95": {
-          "currentPrice": 11.52,
+          "currentPrice": 11.53,
           "previousPrice": null
         },
         "A98": {
@@ -274,7 +274,7 @@
       "currency": "€",
       "fuels": {
         "A95": {
-          "currentPrice": 11.82,
+          "currentPrice": 11.83,
           "previousPrice": null
         },
         "A98": {
@@ -282,7 +282,7 @@
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 12.19,
+          "currentPrice": 12.2,
           "previousPrice": null
         },
         "LPG": {
@@ -362,7 +362,7 @@
       "currency": "€",
       "fuels": {
         "A95": {
-          "currentPrice": 11.82,
+          "currentPrice": 11.83,
           "previousPrice": null
         },
         "A98": {
@@ -436,7 +436,7 @@
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 12.02,
+          "currentPrice": 12.03,
           "previousPrice": null
         },
         "LPG": {
@@ -480,7 +480,7 @@
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 12.4,
+          "currentPrice": 12.41,
           "previousPrice": null
         },
         "LPG": {
@@ -546,7 +546,7 @@
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 12.23,
+          "currentPrice": 12.24,
           "previousPrice": null
         },
         "LPG": {
@@ -560,7 +560,7 @@
       "currency": "€",
       "fuels": {
         "A95": {
-          "currentPrice": 12.02,
+          "currentPrice": 12.03,
           "previousPrice": null
         },
         "A98": {
@@ -590,7 +590,7 @@
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 12.33,
+          "currentPrice": 12.34,
           "previousPrice": null
         },
         "LPG": {
@@ -626,7 +626,7 @@
       "currency": "€",
       "fuels": {
         "A95": {
-          "currentPrice": 11.52,
+          "currentPrice": 11.53,
           "previousPrice": null
         },
         "A98": {
@@ -634,7 +634,7 @@
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 11.7,
+          "currentPrice": 11.71,
           "previousPrice": null
         },
         "LPG": {
@@ -670,7 +670,7 @@
       "currency": "€",
       "fuels": {
         "A95": {
-          "currentPrice": 11.39,
+          "currentPrice": 11.4,
           "previousPrice": null
         },
         "A98": {
@@ -678,7 +678,7 @@
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 11.46,
+          "currentPrice": 11.47,
           "previousPrice": null
         },
         "LPG": {
@@ -714,7 +714,7 @@
       "currency": "€",
       "fuels": {
         "A95": {
-          "currentPrice": 11.77,
+          "currentPrice": 11.78,
           "previousPrice": null
         },
         "A98": {
@@ -758,7 +758,7 @@
       "currency": "€",
       "fuels": {
         "A95": {
-          "currentPrice": 11.64,
+          "currentPrice": 11.65,
           "previousPrice": null
         },
         "A98": {
@@ -802,7 +802,7 @@
       "currency": "€",
       "fuels": {
         "A95": {
-          "currentPrice": 11.7,
+          "currentPrice": 11.71,
           "previousPrice": null
         },
         "A98": {
@@ -824,7 +824,7 @@
       "currency": "€",
       "fuels": {
         "A95": {
-          "currentPrice": 11.21,
+          "currentPrice": 11.22,
           "previousPrice": null
         },
         "A98": {
@@ -832,7 +832,7 @@
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 11.27,
+          "currentPrice": 11.28,
           "previousPrice": null
         },
         "LPG": {
@@ -902,7 +902,7 @@
           "previousPrice": null
         },
         "LPG": {
-          "currentPrice": 11.08,
+          "currentPrice": 11.09,
           "previousPrice": null
         }
       }
@@ -942,7 +942,7 @@
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 11.9,
+          "currentPrice": 11.91,
           "previousPrice": null
         },
         "LPG": {
@@ -1012,7 +1012,7 @@
           "previousPrice": null
         },
         "LPG": {
-          "currentPrice": 11.21,
+          "currentPrice": 11.22,
           "previousPrice": null
         }
       }
@@ -1030,7 +1030,7 @@
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 11.95,
+          "currentPrice": 11.96,
           "previousPrice": null
         },
         "LPG": {
