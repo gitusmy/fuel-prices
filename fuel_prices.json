@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-22T08:45:55.220859+00:00",
-  "revision": 5569,
+  "updated_at": "2026-05-23T08:02:51.815029+00:00",
+  "revision": 5571,
   "week": 20,
   "year": 2026,
   "countryCount": 47,
@@ -722,7 +722,7 @@
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 11.84,
+          "currentPrice": 11.85,
           "previousPrice": null
         },
         "LPG": {
