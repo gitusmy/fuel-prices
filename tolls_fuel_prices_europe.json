@@ -1,7 +1,7 @@
 {
   "continent": "europe",
-  "data_date": "2026-05-18",
-  "updated_at": "2026-05-27T08:57:21.465711+00:00",
+  "data_date": "2026-05-25",
+  "updated_at": "2026-05-28T09:41:14.766658+00:00",
   "countries": {
     "Albania": {
       "gasoline95": {
@@ -26,6 +26,20 @@
         }
       }
     },
+    "Andorra": {
+      "gasoline95": {
+        "eur": "1.62",
+        "local": null
+      },
+      "diesel": {
+        "eur": "1.67",
+        "local": null
+      },
+      "lpg": {
+        "eur": null,
+        "local": null
+      }
+    },
     "Austria": {
       "gasoline95": {
         "eur": "1.81",
@@ -42,38 +56,38 @@
     },
     "Belarus": {
       "gasoline95": {
-        "eur": "0.85",
+        "eur": "0.84",
         "local": {
           "currency": "Br",
-          "value": "2.71"
+          "value": "2.66"
         }
       },
       "diesel": {
-        "eur": "0.85",
+        "eur": "0.84",
         "local": {
           "currency": "Br",
-          "value": "2.71"
+          "value": "2.66"
         }
       },
       "lpg": {
         "eur": "0.42",
         "local": {
           "currency": "Br",
-          "value": "1.35"
+          "value": "1.33"
         }
       }
     },
     "Belgium": {
       "gasoline95": {
-        "eur": "1.89",
+        "eur": "1.94",
         "local": null
       },
       "diesel": {
-        "eur": "2.11",
+        "eur": "2.13",
         "local": null
       },
       "lpg": {
-        "eur": "0.89",
+        "eur": "0.88",
         "local": null
       }
     },
@@ -102,24 +116,24 @@
     },
     "Bulgaria": {
       "gasoline95": {
-        "eur": "1.51",
+        "eur": "1.53",
         "local": {
           "currency": "лв.",
-          "value": "2.95"
+          "value": "2.99"
         }
       },
       "diesel": {
-        "eur": "1.73",
+        "eur": "1.71",
         "local": {
           "currency": "лв.",
-          "value": "3.38"
+          "value": "3.34"
         }
       },
       "lpg": {
-        "eur": "0.79",
+        "eur": "0.77",
         "local": {
           "currency": "лв.",
-          "value": "1.55"
+          "value": "1.50"
         }
       }
     },
@@ -129,21 +143,21 @@
         "local": null
       },
       "diesel": {
-        "eur": "1.82",
+        "eur": "1.79",
         "local": null
       },
       "lpg": {
-        "eur": "0.87",
+        "eur": "0.88",
         "local": null
       }
     },
     "Cyprus": {
       "gasoline95": {
-        "eur": "1.56",
+        "eur": "1.59",
         "local": null
       },
       "diesel": {
-        "eur": "1.82",
+        "eur": "1.80",
         "local": null
       },
       "lpg": {
@@ -153,40 +167,40 @@
     },
     "Czechia": {
       "gasoline95": {
-        "eur": "1.74",
+        "eur": "1.78",
         "local": {
           "currency": "Kč",
-          "value": "42.30"
+          "value": "43.30"
         }
       },
       "diesel": {
-        "eur": "1.67",
+        "eur": "1.68",
         "local": {
           "currency": "Kč",
-          "value": "40.60"
+          "value": "40.80"
         }
       },
       "lpg": {
-        "eur": "0.96",
+        "eur": "0.94",
         "local": {
           "currency": "Kč",
-          "value": "23.30"
+          "value": "22.80"
         }
       }
     },
     "Denmark": {
       "gasoline95": {
-        "eur": "2.34",
+        "eur": "2.50",
         "local": {
           "currency": "kr.",
-          "value": "17.50"
+          "value": "18.70"
         }
       },
       "diesel": {
-        "eur": "2.18",
+        "eur": "2.22",
         "local": {
           "currency": "kr.",
-          "value": "16.30"
+          "value": "16.60"
         }
       },
       "lpg": {
@@ -196,11 +210,11 @@
     },
     "Estonia": {
       "gasoline95": {
-        "eur": "1.79",
+        "eur": "1.81",
         "local": null
       },
       "diesel": {
-        "eur": "1.82",
+        "eur": "1.80",
         "local": null
       },
       "lpg": {
@@ -210,11 +224,11 @@
     },
     "Finland": {
       "gasoline95": {
-        "eur": "2.03",
+        "eur": "2.19",
         "local": null
       },
       "diesel": {
-        "eur": "2.14",
+        "eur": "2.32",
         "local": null
       },
       "lpg": {
@@ -224,7 +238,7 @@
     },
     "France": {
       "gasoline95": {
-        "eur": "2.08",
+        "eur": "2.11",
         "local": null
       },
       "diesel": {
@@ -232,23 +246,23 @@
         "local": null
       },
       "lpg": {
-        "eur": "1.06",
+        "eur": "1.05",
         "local": null
       }
     },
     "Georgia": {
       "gasoline95": {
-        "eur": "1.21",
+        "eur": "1.20",
         "local": {
           "currency": "₾",
-          "value": "3.74"
+          "value": "3.71"
         }
       },
       "diesel": {
         "eur": "1.38",
         "local": {
           "currency": "₾",
-          "value": "4.28"
+          "value": "4.26"
         }
       },
       "lpg": {
@@ -258,21 +272,21 @@
     },
     "Germany": {
       "gasoline95": {
-        "eur": "2.04",
+        "eur": "2.03",
         "local": null
       },
       "diesel": {
-        "eur": "1.97",
+        "eur": "1.94",
         "local": null
       },
       "lpg": {
-        "eur": "1.26",
+        "eur": "1.16",
         "local": null
       }
     },
     "Greece": {
       "gasoline95": {
-        "eur": "2.12",
+        "eur": "2.14",
         "local": null
       },
       "diesel": {
@@ -286,30 +300,30 @@
     },
     "Hungary": {
       "gasoline95": {
-        "eur": "1.66",
+        "eur": "1.68",
         "local": {
           "currency": "Ft",
-          "value": "590"
+          "value": "599"
         }
       },
       "diesel": {
-        "eur": "1.73",
+        "eur": "1.75",
         "local": {
           "currency": "Ft",
-          "value": "614"
+          "value": "624"
         }
       },
       "lpg": {
-        "eur": "1.03",
+        "eur": "1.05",
         "local": {
           "currency": "Ft",
-          "value": "366"
+          "value": "372"
         }
       }
     },
     "Iceland": {
       "gasoline95": {
-        "eur": "1.54",
+        "eur": "1.55",
         "local": {
           "currency": "kr",
           "value": "221"
@@ -319,7 +333,7 @@
         "eur": "1.78",
         "local": {
           "currency": "kr",
-          "value": "255"
+          "value": "256"
         }
       },
       "lpg": {
@@ -333,7 +347,7 @@
         "local": null
       },
       "diesel": {
-        "eur": "1.95",
+        "eur": "1.93",
         "local": null
       },
       "lpg": {
@@ -343,29 +357,29 @@
     },
     "Italy": {
       "gasoline95": {
-        "eur": "1.94",
+        "eur": "1.96",
         "local": null
       },
       "diesel": {
-        "eur": "1.98",
+        "eur": "1.99",
         "local": null
       },
       "lpg": {
-        "eur": "0.83",
+        "eur": "0.82",
         "local": null
       }
     },
     "Latvia": {
       "gasoline95": {
-        "eur": "1.86",
+        "eur": "1.88",
         "local": null
       },
       "diesel": {
-        "eur": "1.90",
+        "eur": "1.89",
         "local": null
       },
       "lpg": {
-        "eur": "1.05",
+        "eur": "1.01",
         "local": null
       }
     },
@@ -391,7 +405,7 @@
     },
     "Lithuania": {
       "gasoline95": {
-        "eur": "1.81",
+        "eur": "1.82",
         "local": null
       },
       "diesel": {
@@ -399,21 +413,21 @@
         "local": null
       },
       "lpg": {
-        "eur": "0.88",
+        "eur": "0.87",
         "local": null
       }
     },
     "Luxembourg": {
       "gasoline95": {
-        "eur": "1.82",
+        "eur": "1.81",
         "local": null
       },
       "diesel": {
-        "eur": "1.82",
+        "eur": "1.84",
         "local": null
       },
       "lpg": {
-        "eur": "0.79",
+        "eur": "0.75",
         "local": null
       }
     },
@@ -436,21 +450,21 @@
         "eur": "1.56",
         "local": {
           "currency": "lei",
-          "value": "31.40"
+          "value": "31.30"
         }
       },
       "diesel": {
         "eur": "1.45",
         "local": {
           "currency": "lei",
-          "value": "29.20"
+          "value": "29.10"
         }
       },
       "lpg": {
         "eur": "0.40",
         "local": {
           "currency": "lei",
-          "value": "8.02"
+          "value": "8.00"
         }
       }
     },
@@ -488,7 +502,7 @@
         "local": null
       },
       "diesel": {
-        "eur": "2.28",
+        "eur": "2.26",
         "local": null
       },
       "lpg": {
@@ -498,17 +512,17 @@
     },
     "North Macedonia": {
       "gasoline95": {
-        "eur": "1.41",
+        "eur": "1.42",
         "local": {
           "currency": "den",
-          "value": "87.00"
+          "value": "87.40"
         }
       },
       "diesel": {
         "eur": "1.50",
         "local": {
           "currency": "den",
-          "value": "92.50"
+          "value": "92.40"
         }
       },
       "lpg": {
@@ -544,34 +558,34 @@
     },
     "Poland": {
       "gasoline95": {
-        "eur": "1.49",
+        "eur": "1.51",
         "local": {
           "currency": "zł",
-          "value": "6.31"
+          "value": "6.41"
         }
       },
       "diesel": {
-        "eur": "1.58",
+        "eur": "1.59",
         "local": {
           "currency": "zł",
-          "value": "6.68"
+          "value": "6.72"
         }
       },
       "lpg": {
         "eur": "0.86",
         "local": {
           "currency": "zł",
-          "value": "3.66"
+          "value": "3.62"
         }
       }
     },
     "Portugal": {
       "gasoline95": {
-        "eur": "2.01",
+        "eur": "2.02",
         "local": null
       },
       "diesel": {
-        "eur": "1.95",
+        "eur": "1.96",
         "local": null
       },
       "lpg": {
@@ -581,24 +595,24 @@
     },
     "Romania": {
       "gasoline95": {
-        "eur": "1.76",
+        "eur": "1.78",
         "local": {
           "currency": "lei",
-          "value": "9.23"
+          "value": "9.36"
         }
       },
       "diesel": {
-        "eur": "1.83",
+        "eur": "1.82",
         "local": {
           "currency": "lei",
-          "value": "9.60"
+          "value": "9.55"
         }
       },
       "lpg": {
         "eur": "0.80",
         "local": {
           "currency": "lei",
-          "value": "4.21"
+          "value": "4.19"
         }
       }
     },
@@ -607,21 +621,21 @@
         "eur": "0.82",
         "local": {
           "currency": "₽",
-          "value": "68.70"
+          "value": "67.40"
         }
       },
       "diesel": {
         "eur": "0.93",
         "local": {
           "currency": "₽",
-          "value": "77.90"
+          "value": "76.50"
         }
       },
       "lpg": {
         "eur": "0.37",
         "local": {
           "currency": "₽",
-          "value": "31.10"
+          "value": "30.60"
         }
       }
     },
@@ -664,11 +678,11 @@
     },
     "Slovakia": {
       "gasoline95": {
-        "eur": "1.78",
+        "eur": "1.80",
         "local": null
       },
       "diesel": {
-        "eur": "1.71",
+        "eur": "1.72",
         "local": null
       },
       "lpg": {
@@ -678,21 +692,21 @@
     },
     "Slovenia": {
       "gasoline95": {
-        "eur": "1.69",
+        "eur": "1.70",
         "local": null
       },
       "diesel": {
-        "eur": "1.74",
+        "eur": "1.75",
         "local": null
       },
       "lpg": {
-        "eur": "1.04",
+        "eur": "1.03",
         "local": null
       }
     },
     "Spain": {
       "gasoline95": {
-        "eur": "1.55",
+        "eur": "1.57",
         "local": null
       },
       "diesel": {
@@ -706,17 +720,17 @@
     },
     "Sweden": {
       "gasoline95": {
-        "eur": "1.72",
+        "eur": "1.74",
         "local": {
           "currency": "kr",
-          "value": "18.60"
+          "value": "18.90"
         }
       },
       "diesel": {
-        "eur": "1.90",
+        "eur": "1.94",
         "local": {
           "currency": "kr",
-          "value": "20.50"
+          "value": "21.00"
         }
       },
       "lpg": {
@@ -743,23 +757,23 @@
         "eur": "1.24",
         "local": {
           "currency": "CHF",
-          "value": "1.13"
+          "value": "1.14"
         }
       }
     },
     "Turkey": {
       "gasoline95": {
-        "eur": "1.22",
+        "eur": "1.21",
         "local": {
           "currency": "₺",
-          "value": "65.00"
+          "value": "64.40"
         }
       },
       "diesel": {
-        "eur": "1.27",
+        "eur": "1.25",
         "local": {
           "currency": "₺",
-          "value": "68.00"
+          "value": "66.70"
         }
       },
       "lpg": {
@@ -772,37 +786,37 @@
         "eur": "1.47",
         "local": {
           "currency": "₴",
-          "value": "75.80"
+          "value": "75.50"
         }
       },
       "diesel": {
         "eur": "1.68",
         "local": {
           "currency": "₴",
-          "value": "86.90"
+          "value": "86.50"
         }
       },
       "lpg": {
         "eur": "0.91",
         "local": {
           "currency": "₴",
-          "value": "46.70"
+          "value": "46.50"
         }
       }
     },
     "United Kingdom": {
       "gasoline95": {
-        "eur": "1.81",
+        "eur": "1.84",
         "local": {
           "currency": "£",
-          "value": "1.56"
+          "value": "1.59"
         }
       },
       "diesel": {
         "eur": "2.14",
         "local": {
           "currency": "£",
-          "value": "1.85"
+          "value": "1.86"
         }
       },
       "lpg": {
