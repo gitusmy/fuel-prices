@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T08:32:18.738489+00:00",
+  "updated_at": "2026-06-01T11:04:57.209534+00:00",
   "continent": "world",
   "countries": [
     {
@@ -94,13 +94,6 @@
       "unit": "USD/Liter"
     },
     {
-      "country": "Nigeria",
-      "last": 0.89,
-      "previous": 0.9,
-      "reference": "Apr/26",
-      "unit": "USD/Liter"
-    },
-    {
       "country": "Trinidad And Tobago",
       "last": 0.9,
       "previous": 0.76,
@@ -111,6 +104,13 @@
       "country": "Philippines",
       "last": 0.92,
       "previous": 1.03,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Nigeria",
+      "last": 0.93,
+      "previous": 0.89,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
