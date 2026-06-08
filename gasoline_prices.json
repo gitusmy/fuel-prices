@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T08:42:07.576279+00:00",
+  "updated_at": "2026-06-08T10:12:32.231841+00:00",
   "continent": "world",
   "countries": [
     {
@@ -227,6 +227,13 @@
       "unit": "USD/Liter"
     },
     {
+      "country": "Guatemala",
+      "last": 1.29,
+      "previous": 1.38,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
       "country": "Brazil",
       "last": 1.3,
       "previous": 1.34,
@@ -287,13 +294,6 @@
       "last": 1.38,
       "previous": 1.31,
       "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Guatemala",
-      "last": 1.38,
-      "previous": 1.36,
-      "reference": "Apr/26",
       "unit": "USD/Liter"
     },
     {
