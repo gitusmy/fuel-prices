@@ -1,521 +1,143 @@
 {
-  "updated_at": "2026-06-17T10:22:12.633597+00:00",
+  "updated_at": "2026-06-18T10:01:38.827913+00:00",
   "continent": "world",
   "countries": [
     {
-      "country": "Venezuela",
-      "last": 0.01,
-      "previous": 0.01,
+      "country": "Hong Kong",
+      "last": 4.17,
+      "previous": 4.15,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "Kuwait",
-      "last": 0.28,
-      "previous": 0.28,
+      "country": "Singapore",
+      "last": 3.39,
+      "previous": 3.39,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "Iran",
-      "last": 0.36,
-      "previous": 0.36,
+      "country": "Israel",
+      "last": 2.94,
+      "previous": 2.7,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "Egypt",
-      "last": 0.43,
-      "previous": 0.42,
+      "country": "Netherlands",
+      "last": 2.93,
+      "previous": 2.9,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "Malaysia",
-      "last": 0.5,
-      "previous": 0.5,
+      "country": "Denmark",
+      "last": 2.68,
+      "previous": 2.59,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "Qatar",
-      "last": 0.51,
-      "previous": 0.5,
+      "country": "Greece",
+      "last": 2.48,
+      "previous": 2.38,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "Indonesia",
-      "last": 0.56,
-      "previous": 0.58,
+      "country": "Finland",
+      "last": 2.46,
+      "previous": 2.37,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "Bahrain",
-      "last": 0.59,
-      "previous": 0.59,
+      "country": "France",
+      "last": 2.43,
+      "previous": 2.4,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "Oman",
-      "last": 0.61,
-      "previous": 0.61,
+      "country": "Switzerland",
+      "last": 2.41,
+      "previous": 2.43,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "Saudi Arabia",
-      "last": 0.62,
-      "previous": 0.62,
+      "country": "Italy",
+      "last": 2.38,
+      "previous": 2.14,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "Kazakhstan",
-      "last": 0.67,
-      "previous": 0.64,
+      "country": "Portugal",
+      "last": 2.35,
+      "previous": 2.26,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "Azerbaijan",
-      "last": 0.68,
-      "previous": 0.68,
+      "country": "Germany",
+      "last": 2.33,
+      "previous": 2.51,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "Vietnam",
-      "last": 0.83,
-      "previous": 0.83,
+      "country": "Belgium",
+      "last": 2.32,
+      "previous": 2.28,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "Trinidad And Tobago",
-      "last": 0.9,
-      "previous": 0.76,
-      "reference": "Apr/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Philippines",
-      "last": 0.92,
-      "previous": 1.03,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Nigeria",
-      "last": 0.93,
-      "previous": 0.89,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Belarus",
-      "last": 0.94,
-      "previous": 0.88,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Russia",
-      "last": 0.95,
-      "previous": 0.81,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "United Arab Emirates",
-      "last": 0.97,
-      "previous": 0.89,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "China",
-      "last": 0.99,
-      "previous": 1.01,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Bolivia",
-      "last": 1.0,
-      "previous": 1.01,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Sudan",
-      "last": 1.05,
-      "previous": 1.05,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Japan",
-      "last": 1.06,
-      "previous": 1.06,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "India",
-      "last": 1.07,
-      "previous": 1.02,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Paraguay",
-      "last": 1.09,
-      "previous": 1.03,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Puerto Rico",
-      "last": 1.09,
-      "previous": 1.08,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Cambodia",
-      "last": 1.15,
-      "previous": 1.16,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Colombia",
-      "last": 1.15,
-      "previous": 1.14,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "El Salvador",
-      "last": 1.16,
-      "previous": 1.12,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Tanzania",
-      "last": 1.17,
-      "previous": 1.58,
-      "reference": "Jun/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "United States",
-      "last": 1.18,
-      "previous": 1.08,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Jamaica",
-      "last": 1.24,
-      "previous": 1.14,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Guatemala",
-      "last": 1.29,
-      "previous": 1.38,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Brazil",
-      "last": 1.3,
-      "previous": 1.34,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Australia",
-      "last": 1.33,
-      "previous": 1.38,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Honduras",
-      "last": 1.33,
-      "previous": 0.97,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Nicaragua",
-      "last": 1.34,
-      "previous": 1.33,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "South Korea",
-      "last": 1.34,
-      "previous": 1.36,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Ghana",
-      "last": 1.35,
-      "previous": 1.42,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Mexico",
-      "last": 1.36,
-      "previous": 1.36,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Thailand",
-      "last": 1.36,
-      "previous": 1.31,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Canada",
-      "last": 1.38,
-      "previous": 1.31,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Haiti",
-      "last": 1.41,
-      "previous": 1.46,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Peru",
-      "last": 1.41,
-      "previous": 1.44,
-      "reference": "Apr/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "South Africa",
-      "last": 1.42,
-      "previous": 1.39,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Turkey",
-      "last": 1.42,
-      "previous": 1.44,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Lebanon",
-      "last": 1.44,
-      "previous": 1.32,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Argentina",
-      "last": 1.45,
-      "previous": 1.41,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Pakistan",
-      "last": 1.45,
-      "previous": 1.41,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Malta",
-      "last": 1.56,
-      "previous": 1.57,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Ukraine",
-      "last": 1.57,
-      "previous": 1.52,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Costa Rica",
-      "last": 1.61,
-      "previous": 1.39,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Kenya",
-      "last": 1.65,
-      "previous": 1.53,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Macedonia",
-      "last": 1.65,
-      "previous": 1.57,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Montenegro",
-      "last": 1.68,
-      "previous": 1.7,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Poland",
-      "last": 1.74,
-      "previous": 1.7,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Bosnia and Herzegovina",
-      "last": 1.76,
-      "previous": 1.67,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Chile",
-      "last": 1.78,
-      "previous": 1.76,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Bulgaria",
-      "last": 1.8,
-      "previous": 1.74,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Cyprus",
-      "last": 1.85,
-      "previous": 1.8,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Iceland",
-      "last": 1.85,
-      "previous": 2.0,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Sweden",
-      "last": 1.89,
-      "previous": 1.95,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "New Zealand",
-      "last": 1.9,
-      "previous": 2.11,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Serbia",
-      "last": 1.9,
-      "previous": 1.9,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Spain",
-      "last": 1.91,
-      "previous": 1.85,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Croatia",
-      "last": 1.92,
-      "previous": 1.93,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Romania",
-      "last": 1.99,
-      "previous": 1.98,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Slovenia",
-      "last": 1.99,
-      "previous": 1.9,
+      "country": "Albania",
+      "last": 2.3,
+      "previous": 2.47,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "Luxembourg",
-      "last": 2.04,
+      "country": "Uruguay",
+      "last": 2.2,
       "previous": 2.06,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "Slovakia",
-      "last": 2.06,
-      "previous": 1.98,
+      "country": "Hungary",
+      "last": 2.19,
+      "previous": 2.1,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "Czech Republic",
-      "last": 2.08,
-      "previous": 2.0,
+      "country": "United Kingdom",
+      "last": 2.14,
+      "previous": 2.13,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "Lithuania",
-      "last": 2.08,
-      "previous": 2.05,
+      "country": "Austria",
+      "last": 2.13,
+      "previous": 2.09,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "Norway",
-      "last": 2.08,
-      "previous": 2.35,
-      "reference": "Apr/26",
+      "country": "Ireland",
+      "last": 2.11,
+      "previous": 2.24,
+      "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "Zimbabwe",
-      "last": 2.08,
+      "country": "Latvia",
+      "last": 2.1,
       "previous": 2.08,
       "reference": "May/26",
       "unit": "USD/Liter"
@@ -528,142 +150,520 @@
       "unit": "USD/Liter"
     },
     {
-      "country": "Latvia",
-      "last": 2.1,
+      "country": "Zimbabwe",
+      "last": 2.08,
       "previous": 2.08,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "Ireland",
-      "last": 2.11,
-      "previous": 2.24,
+      "country": "Norway",
+      "last": 2.08,
+      "previous": 2.35,
+      "reference": "Apr/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Lithuania",
+      "last": 2.08,
+      "previous": 2.05,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "Austria",
-      "last": 2.13,
-      "previous": 2.09,
+      "country": "Czech Republic",
+      "last": 2.08,
+      "previous": 2.0,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "United Kingdom",
-      "last": 2.14,
-      "previous": 2.13,
+      "country": "Slovakia",
+      "last": 2.06,
+      "previous": 1.98,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "Hungary",
-      "last": 2.19,
-      "previous": 2.1,
-      "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Uruguay",
-      "last": 2.2,
+      "country": "Luxembourg",
+      "last": 2.04,
       "previous": 2.06,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "Albania",
-      "last": 2.3,
-      "previous": 2.47,
+      "country": "Slovenia",
+      "last": 1.99,
+      "previous": 1.9,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "Belgium",
-      "last": 2.32,
-      "previous": 2.28,
+      "country": "Romania",
+      "last": 1.99,
+      "previous": 1.98,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "Germany",
-      "last": 2.33,
-      "previous": 2.51,
+      "country": "Croatia",
+      "last": 1.92,
+      "previous": 1.93,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "Portugal",
-      "last": 2.35,
-      "previous": 2.26,
+      "country": "Spain",
+      "last": 1.91,
+      "previous": 1.85,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "Italy",
-      "last": 2.38,
-      "previous": 2.14,
+      "country": "Serbia",
+      "last": 1.9,
+      "previous": 1.9,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "Switzerland",
-      "last": 2.41,
-      "previous": 2.43,
+      "country": "New Zealand",
+      "last": 1.9,
+      "previous": 2.11,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "France",
-      "last": 2.43,
-      "previous": 2.4,
+      "country": "Sweden",
+      "last": 1.89,
+      "previous": 1.95,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "Finland",
-      "last": 2.46,
-      "previous": 2.37,
+      "country": "Iceland",
+      "last": 1.85,
+      "previous": 2.0,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "Greece",
-      "last": 2.48,
-      "previous": 2.38,
+      "country": "Cyprus",
+      "last": 1.85,
+      "previous": 1.8,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "Denmark",
-      "last": 2.68,
-      "previous": 2.59,
+      "country": "Bulgaria",
+      "last": 1.8,
+      "previous": 1.74,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "Netherlands",
-      "last": 2.93,
-      "previous": 2.9,
+      "country": "Chile",
+      "last": 1.78,
+      "previous": 1.76,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "Israel",
-      "last": 2.94,
-      "previous": 2.7,
+      "country": "Bosnia and Herzegovina",
+      "last": 1.76,
+      "previous": 1.67,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "Singapore",
-      "last": 3.39,
-      "previous": 3.39,
+      "country": "Poland",
+      "last": 1.74,
+      "previous": 1.7,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "Hong Kong",
-      "last": 4.17,
-      "previous": 4.15,
+      "country": "Montenegro",
+      "last": 1.68,
+      "previous": 1.7,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Macedonia",
+      "last": 1.65,
+      "previous": 1.57,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Kenya",
+      "last": 1.65,
+      "previous": 1.53,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Costa Rica",
+      "last": 1.61,
+      "previous": 1.39,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Ukraine",
+      "last": 1.57,
+      "previous": 1.52,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Malta",
+      "last": 1.56,
+      "previous": 1.57,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Pakistan",
+      "last": 1.45,
+      "previous": 1.41,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Argentina",
+      "last": 1.45,
+      "previous": 1.41,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Lebanon",
+      "last": 1.44,
+      "previous": 1.32,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Turkey",
+      "last": 1.42,
+      "previous": 1.44,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "South Africa",
+      "last": 1.42,
+      "previous": 1.39,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Peru",
+      "last": 1.41,
+      "previous": 1.44,
+      "reference": "Apr/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Haiti",
+      "last": 1.41,
+      "previous": 1.46,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Canada",
+      "last": 1.38,
+      "previous": 1.31,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Thailand",
+      "last": 1.36,
+      "previous": 1.31,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Mexico",
+      "last": 1.36,
+      "previous": 1.36,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Ghana",
+      "last": 1.35,
+      "previous": 1.42,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "South Korea",
+      "last": 1.34,
+      "previous": 1.36,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Nicaragua",
+      "last": 1.34,
+      "previous": 1.33,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Honduras",
+      "last": 1.33,
+      "previous": 0.97,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Australia",
+      "last": 1.33,
+      "previous": 1.38,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Brazil",
+      "last": 1.3,
+      "previous": 1.34,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Guatemala",
+      "last": 1.29,
+      "previous": 1.38,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Jamaica",
+      "last": 1.24,
+      "previous": 1.14,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "United States",
+      "last": 1.18,
+      "previous": 1.08,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Tanzania",
+      "last": 1.17,
+      "previous": 1.58,
+      "reference": "Jun/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "El Salvador",
+      "last": 1.16,
+      "previous": 1.12,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Colombia",
+      "last": 1.15,
+      "previous": 1.14,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Cambodia",
+      "last": 1.15,
+      "previous": 1.16,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Puerto Rico",
+      "last": 1.09,
+      "previous": 1.08,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Paraguay",
+      "last": 1.09,
+      "previous": 1.03,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "India",
+      "last": 1.07,
+      "previous": 1.02,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Japan",
+      "last": 1.06,
+      "previous": 1.06,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Sudan",
+      "last": 1.05,
+      "previous": 1.05,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Bolivia",
+      "last": 1.0,
+      "previous": 1.01,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "China",
+      "last": 0.99,
+      "previous": 1.01,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "United Arab Emirates",
+      "last": 0.97,
+      "previous": 0.89,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Russia",
+      "last": 0.95,
+      "previous": 0.81,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Belarus",
+      "last": 0.94,
+      "previous": 0.88,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Nigeria",
+      "last": 0.93,
+      "previous": 0.89,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Philippines",
+      "last": 0.92,
+      "previous": 1.03,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Trinidad And Tobago",
+      "last": 0.9,
+      "previous": 0.76,
+      "reference": "Apr/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Vietnam",
+      "last": 0.83,
+      "previous": 0.83,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Azerbaijan",
+      "last": 0.68,
+      "previous": 0.68,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Kazakhstan",
+      "last": 0.67,
+      "previous": 0.64,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Saudi Arabia",
+      "last": 0.62,
+      "previous": 0.62,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Oman",
+      "last": 0.61,
+      "previous": 0.61,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Bahrain",
+      "last": 0.59,
+      "previous": 0.59,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Indonesia",
+      "last": 0.56,
+      "previous": 0.58,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Qatar",
+      "last": 0.51,
+      "previous": 0.5,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Malaysia",
+      "last": 0.5,
+      "previous": 0.5,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Egypt",
+      "last": 0.43,
+      "previous": 0.42,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Iran",
+      "last": 0.36,
+      "previous": 0.36,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Kuwait",
+      "last": 0.28,
+      "previous": 0.28,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Venezuela",
+      "last": 0.01,
+      "previous": 0.01,
       "reference": "May/26",
       "unit": "USD/Liter"
     }
