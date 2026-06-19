@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T10:01:38.827913+00:00",
+  "updated_at": "2026-06-19T10:08:43.793259+00:00",
   "continent": "world",
   "countries": [
     {
@@ -360,16 +360,16 @@
       "unit": "USD/Liter"
     },
     {
-      "country": "Peru",
-      "last": 1.41,
-      "previous": 1.44,
-      "reference": "Apr/26",
-      "unit": "USD/Liter"
-    },
-    {
       "country": "Haiti",
       "last": 1.41,
       "previous": 1.46,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Peru",
+      "last": 1.4,
+      "previous": 1.41,
       "reference": "May/26",
       "unit": "USD/Liter"
     },
