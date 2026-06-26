@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T08:44:15.127118+00:00",
+  "updated_at": "2026-06-26T08:46:36.251783+00:00",
   "continent": "world",
   "countries": [
     {
@@ -493,6 +493,13 @@
       "unit": "USD/Liter"
     },
     {
+      "country": "Norway",
+      "last": 2.07,
+      "previous": 2.08,
+      "reference": "May/26",
+      "unit": "USD/Liter"
+    },
+    {
       "country": "Czech Republic",
       "last": 2.08,
       "previous": 2.0,
@@ -504,13 +511,6 @@
       "last": 2.08,
       "previous": 2.05,
       "reference": "May/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Norway",
-      "last": 2.08,
-      "previous": 2.35,
-      "reference": "Apr/26",
       "unit": "USD/Liter"
     },
     {
