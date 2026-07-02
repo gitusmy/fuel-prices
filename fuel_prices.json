@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-01T09:25:13.165506+00:00",
-  "revision": 42,
+  "updated_at": "2026-07-02T08:38:36.270266+00:00",
+  "revision": 43,
   "week": 27,
   "year": 2026,
   "countryCount": 28,
@@ -14,7 +14,7 @@
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 1.72,
+          "currentPrice": 1.71,
           "previousPrice": null
         },
         "LPG": {
@@ -28,15 +28,15 @@
       "currency": "€",
       "fuels": {
         "A95": {
-          "currentPrice": 1.77,
+          "currentPrice": 1.73,
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 1.86,
+          "currentPrice": 1.87,
           "previousPrice": null
         },
         "LPG": {
-          "currentPrice": 0.8,
+          "currentPrice": 0.79,
           "previousPrice": null
         }
       }
@@ -46,15 +46,15 @@
       "currency": "€",
       "fuels": {
         "A95": {
-          "currentPrice": 1.5,
+          "currentPrice": 1.47,
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 1.54,
+          "currentPrice": 1.48,
           "previousPrice": null
         },
         "LPG": {
-          "currentPrice": 0.64,
+          "currentPrice": 0.63,
           "previousPrice": null
         }
       }
@@ -64,15 +64,15 @@
       "currency": "€",
       "fuels": {
         "A95": {
-          "currentPrice": 1.62,
+          "currentPrice": 1.61,
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 1.7,
+          "currentPrice": 1.66,
           "previousPrice": null
         },
         "LPG": {
-          "currentPrice": 0.75,
+          "currentPrice": 0.71,
           "previousPrice": null
         }
       }
@@ -82,11 +82,11 @@
       "currency": "€",
       "fuels": {
         "A95": {
-          "currentPrice": 1.54,
+          "currentPrice": 1.5,
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 1.69,
+          "currentPrice": 1.62,
           "previousPrice": null
         },
         "LPG": {
@@ -104,11 +104,11 @@
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 1.47,
+          "currentPrice": 1.45,
           "previousPrice": null
         },
         "LPG": {
-          "currentPrice": 0.92,
+          "currentPrice": 0.91,
           "previousPrice": null
         }
       }
@@ -118,11 +118,11 @@
       "currency": "€",
       "fuels": {
         "A95": {
-          "currentPrice": 2.31,
+          "currentPrice": 2.34,
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 1.98,
+          "currentPrice": 2.01,
           "previousPrice": null
         },
         "LPG": {
@@ -140,7 +140,7 @@
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 1.6,
+          "currentPrice": 1.59,
           "previousPrice": null
         },
         "LPG": {
@@ -154,11 +154,11 @@
       "currency": "€",
       "fuels": {
         "A95": {
-          "currentPrice": 2.15,
+          "currentPrice": 2.13,
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 2.17,
+          "currentPrice": 2.14,
           "previousPrice": null
         },
         "LPG": {
@@ -172,11 +172,11 @@
       "currency": "€",
       "fuels": {
         "A95": {
-          "currentPrice": 1.95,
+          "currentPrice": 1.94,
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 1.89,
+          "currentPrice": 1.87,
           "previousPrice": null
         },
         "LPG": {
@@ -190,15 +190,15 @@
       "currency": "€",
       "fuels": {
         "A95": {
-          "currentPrice": 1.87,
+          "currentPrice": 1.9,
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 1.73,
+          "currentPrice": 1.76,
           "previousPrice": null
         },
         "LPG": {
-          "currentPrice": 1.09,
+          "currentPrice": 1.11,
           "previousPrice": null
         }
       }
@@ -208,11 +208,11 @@
       "currency": "€",
       "fuels": {
         "A95": {
-          "currentPrice": 1.93,
+          "currentPrice": 1.92,
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 1.64,
+          "currentPrice": 1.61,
           "previousPrice": null
         },
         "LPG": {
@@ -226,11 +226,11 @@
       "currency": "€",
       "fuels": {
         "A95": {
-          "currentPrice": 1.64,
+          "currentPrice": 1.62,
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 1.68,
+          "currentPrice": 1.64,
           "previousPrice": null
         },
         "LPG": {
@@ -244,11 +244,11 @@
       "currency": "€",
       "fuels": {
         "A95": {
-          "currentPrice": 1.79,
+          "currentPrice": 1.76,
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 1.81,
+          "currentPrice": 1.76,
           "previousPrice": null
         },
         "LPG": {
@@ -262,15 +262,15 @@
       "currency": "€",
       "fuels": {
         "A95": {
-          "currentPrice": 1.85,
+          "currentPrice": 1.81,
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 1.95,
+          "currentPrice": 1.9,
           "previousPrice": null
         },
         "LPG": {
-          "currentPrice": 0.78,
+          "currentPrice": 0.77,
           "previousPrice": null
         }
       }
@@ -280,15 +280,15 @@
       "currency": "€",
       "fuels": {
         "A95": {
-          "currentPrice": 1.8,
+          "currentPrice": 1.73,
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 1.79,
+          "currentPrice": 1.67,
           "previousPrice": null
         },
         "LPG": {
-          "currentPrice": 0.96,
+          "currentPrice": 0.91,
           "previousPrice": null
         }
       }
@@ -298,15 +298,15 @@
       "currency": "€",
       "fuels": {
         "A95": {
-          "currentPrice": 1.69,
+          "currentPrice": 1.66,
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 1.76,
+          "currentPrice": 1.74,
           "previousPrice": null
         },
         "LPG": {
-          "currentPrice": 0.78,
+          "currentPrice": 0.76,
           "previousPrice": null
         }
       }
@@ -352,15 +352,15 @@
       "currency": "€",
       "fuels": {
         "A95": {
-          "currentPrice": 2.21,
+          "currentPrice": 2.2,
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 2.03,
+          "currentPrice": 2.02,
           "previousPrice": null
         },
         "LPG": {
-          "currentPrice": 0.98,
+          "currentPrice": 0.97,
           "previousPrice": null
         }
       }
@@ -370,15 +370,15 @@
       "currency": "€",
       "fuels": {
         "A95": {
-          "currentPrice": 1.38,
+          "currentPrice": 1.39,
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 1.4,
+          "currentPrice": 1.41,
           "previousPrice": null
         },
         "LPG": {
-          "currentPrice": 0.79,
+          "currentPrice": 0.77,
           "previousPrice": null
         }
       }
@@ -392,7 +392,7 @@
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 1.78,
+          "currentPrice": 1.77,
           "previousPrice": null
         },
         "LPG": {
@@ -406,15 +406,15 @@
       "currency": "€",
       "fuels": {
         "A95": {
-          "currentPrice": 1.63,
+          "currentPrice": 1.65,
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 1.73,
+          "currentPrice": 1.75,
           "previousPrice": null
         },
         "LPG": {
-          "currentPrice": 0.82,
+          "currentPrice": 0.83,
           "previousPrice": null
         }
       }
@@ -424,11 +424,11 @@
       "currency": "€",
       "fuels": {
         "A95": {
-          "currentPrice": 1.65,
+          "currentPrice": 1.67,
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 1.53,
+          "currentPrice": 1.49,
           "previousPrice": null
         },
         "LPG": {
@@ -442,15 +442,15 @@
       "currency": "€",
       "fuels": {
         "A95": {
-          "currentPrice": 1.6,
+          "currentPrice": 1.58,
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 1.71,
+          "currentPrice": 1.68,
           "previousPrice": null
         },
         "LPG": {
-          "currentPrice": 0.96,
+          "currentPrice": 0.99,
           "previousPrice": null
         }
       }
@@ -460,15 +460,15 @@
       "currency": "€",
       "fuels": {
         "A95": {
-          "currentPrice": 1.46,
+          "currentPrice": 1.44,
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 1.54,
+          "currentPrice": 1.5,
           "previousPrice": null
         },
         "LPG": {
-          "currentPrice": 1.01,
+          "currentPrice": 1,
           "previousPrice": null
         }
       }
@@ -482,7 +482,7 @@
           "previousPrice": null
         },
         "Diesel": {
-          "currentPrice": 1.7,
+          "currentPrice": 1.68,
           "previousPrice": null
         },
         "LPG": {
