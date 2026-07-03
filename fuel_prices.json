@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-02T08:38:36.270266+00:00",
-  "revision": 43,
+  "updated_at": "2026-07-03T08:44:30.062259+00:00",
+  "revision": 45,
   "week": 27,
   "year": 2026,
   "countryCount": 28,
@@ -504,7 +504,7 @@
           "previousPrice": null
         },
         "LPG": {
-          "currentPrice": 0.8,
+          "currentPrice": 0.79,
           "previousPrice": null
         }
       }
