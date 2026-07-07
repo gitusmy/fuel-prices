@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-06T09:51:07.459181+00:00",
-  "revision": 52,
-  "week": 27,
+  "updated_at": "2026-07-07T09:19:41.674803+00:00",
+  "revision": 54,
+  "week": 28,
   "year": 2026,
   "countryCount": 28,
   "countries": [
@@ -496,7 +496,7 @@
       "currency": "€",
       "fuels": {
         "A95": {
-          "currentPrice": 1.46,
+          "currentPrice": 1.47,
           "previousPrice": null
         },
         "Diesel": {
