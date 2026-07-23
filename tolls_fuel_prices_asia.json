@@ -1,28 +1,28 @@
 {
   "continent": "asia",
   "data_date": "2026-07-20",
-  "updated_at": "2026-07-22T08:04:32.877316+00:00",
+  "updated_at": "2026-07-23T08:07:26.717536+00:00",
   "countries": {
     "Afghanistan": {
       "gasoline95": {
         "eur": "1.02",
         "local": {
           "currency": "؋",
-          "value": "78.00"
+          "value": "77.10"
         }
       },
       "diesel": {
         "eur": "0.97",
         "local": {
           "currency": "؋",
-          "value": "73.90"
+          "value": "73.10"
         }
       },
       "lpg": {
         "eur": "0.85",
         "local": {
           "currency": "؋",
-          "value": "64.80"
+          "value": "64.10"
         }
       }
     },
@@ -31,7 +31,7 @@
         "eur": "1.31",
         "local": {
           "currency": "֏",
-          "value": "548"
+          "value": "549"
         }
       },
       "diesel": {
@@ -45,7 +45,7 @@
         "eur": "0.47",
         "local": {
           "currency": "֏",
-          "value": "194"
+          "value": "195"
         }
       }
     },
@@ -117,14 +117,14 @@
         "eur": "0.89",
         "local": {
           "currency": "Nu.",
-          "value": "97.40"
+          "value": "97.80"
         }
       },
       "diesel": {
         "eur": "0.89",
         "local": {
           "currency": "Nu.",
-          "value": "98.10"
+          "value": "98.60"
         }
       },
       "lpg": {
@@ -137,14 +137,14 @@
         "eur": "1.16",
         "local": {
           "currency": "៛",
-          "value": "5328"
+          "value": "5326"
         }
       },
       "diesel": {
         "eur": "0.94",
         "local": {
           "currency": "៛",
-          "value": "4323"
+          "value": "4321"
         }
       },
       "lpg": {
@@ -157,14 +157,14 @@
         "eur": "1.00",
         "local": {
           "currency": "元",
-          "value": "7.71"
+          "value": "7.72"
         }
       },
       "diesel": {
         "eur": "0.88",
         "local": {
           "currency": "元",
-          "value": "6.81"
+          "value": "6.83"
         }
       },
       "lpg": {
@@ -177,14 +177,14 @@
         "eur": "3.55",
         "local": {
           "currency": "HK$",
-          "value": "31.80"
+          "value": "31.90"
         }
       },
       "diesel": {
         "eur": "3.83",
         "local": {
           "currency": "HK$",
-          "value": "34.30"
+          "value": "34.40"
         }
       },
       "lpg": {
@@ -197,21 +197,21 @@
         "eur": "0.99",
         "local": {
           "currency": "₹",
-          "value": "109"
+          "value": "110"
         }
       },
       "diesel": {
         "eur": "0.90",
         "local": {
           "currency": "₹",
-          "value": "98.50"
+          "value": "99.00"
         }
       },
       "lpg": {
         "eur": "0.60",
         "local": {
           "currency": "₹",
-          "value": "65.60"
+          "value": "66.00"
         }
       }
     },
@@ -220,14 +220,14 @@
         "eur": "0.82",
         "local": {
           "currency": "Rp",
-          "value": "16844"
+          "value": "16863"
         }
       },
       "diesel": {
         "eur": "1.03",
         "local": {
           "currency": "Rp",
-          "value": "21135"
+          "value": "21160"
         }
       },
       "lpg": {
@@ -240,14 +240,14 @@
         "eur": "0.03",
         "local": {
           "currency": "﷼",
-          "value": "1217"
+          "value": "1220"
         }
       },
       "diesel": {
         "eur": "0.01",
         "local": {
           "currency": "﷼",
-          "value": "249"
+          "value": "250"
         }
       },
       "lpg": {
@@ -260,7 +260,7 @@
         "eur": "0.57",
         "local": {
           "currency": "د.ع",
-          "value": "850"
+          "value": "849"
         }
       },
       "diesel": {
@@ -277,21 +277,21 @@
         "eur": "2.26",
         "local": {
           "currency": "₪",
-          "value": "7.85"
+          "value": "7.89"
         }
       },
       "diesel": {
         "eur": "2.14",
         "local": {
           "currency": "₪",
-          "value": "7.45"
+          "value": "7.49"
         }
       },
       "lpg": {
         "eur": "0.92",
         "local": {
           "currency": "₪",
-          "value": "3.21"
+          "value": "3.23"
         }
       }
     },
@@ -340,14 +340,14 @@
         "eur": "0.60",
         "local": {
           "currency": "₸",
-          "value": "322"
+          "value": "321"
         }
       },
       "diesel": {
         "eur": "0.64",
         "local": {
           "currency": "₸",
-          "value": "345"
+          "value": "344"
         }
       },
       "lpg": {
@@ -363,14 +363,14 @@
         "eur": "0.30",
         "local": {
           "currency": "KD",
-          "value": "0.10"
+          "value": "0.11"
         }
       },
       "diesel": {
         "eur": "0.32",
         "local": {
           "currency": "KD",
-          "value": "0.11"
+          "value": "0.12"
         }
       },
       "lpg": {
@@ -383,14 +383,14 @@
         "eur": "0.89",
         "local": {
           "currency": "сом",
-          "value": "88.70"
+          "value": "88.90"
         }
       },
       "diesel": {
         "eur": "0.94",
         "local": {
           "currency": "сом",
-          "value": "94.20"
+          "value": "94.40"
         }
       },
       "lpg": {
@@ -400,17 +400,17 @@
     },
     "Laos": {
       "gasoline95": {
-        "eur": "1.34",
+        "eur": "1.35",
         "local": {
           "currency": "₭",
-          "value": "34581"
+          "value": "34735"
         }
       },
       "diesel": {
-        "eur": "0.98",
+        "eur": "0.99",
         "local": {
           "currency": "₭",
-          "value": "25298"
+          "value": "25411"
         }
       },
       "lpg": {
@@ -423,21 +423,21 @@
         "eur": "0.99",
         "local": {
           "currency": "LL",
-          "value": "101626"
+          "value": "101629"
         }
       },
       "diesel": {
         "eur": "0.82",
         "local": {
           "currency": "LL",
-          "value": "84061"
+          "value": "84063"
         }
       },
       "lpg": {
         "eur": "0.50",
         "local": {
           "currency": "LL",
-          "value": "50721"
+          "value": "50722"
         }
       }
     },
@@ -473,7 +473,7 @@
         "eur": "0.99",
         "local": {
           "currency": "Rf",
-          "value": "17.50"
+          "value": "17.60"
         }
       },
       "lpg": {
@@ -486,21 +486,21 @@
         "eur": "1.35",
         "local": {
           "currency": "₮",
-          "value": "5514"
+          "value": "5528"
         }
       },
       "diesel": {
         "eur": "1.52",
         "local": {
           "currency": "₮",
-          "value": "6205"
+          "value": "6221"
         }
       },
       "lpg": {
         "eur": "0.65",
         "local": {
           "currency": "₮",
-          "value": "2655"
+          "value": "2662"
         }
       }
     },
@@ -509,14 +509,14 @@
         "eur": "0.93",
         "local": {
           "currency": "K",
-          "value": "2219"
+          "value": "2225"
         }
       },
       "diesel": {
         "eur": "0.87",
         "local": {
           "currency": "K",
-          "value": "2093"
+          "value": "2099"
         }
       },
       "lpg": {
@@ -529,14 +529,14 @@
         "eur": "1.12",
         "local": {
           "currency": "Rs.",
-          "value": "196"
+          "value": "197"
         }
       },
       "diesel": {
         "eur": "1.11",
         "local": {
           "currency": "Rs.",
-          "value": "194"
+          "value": "195"
         }
       },
       "lpg": {
@@ -589,37 +589,37 @@
         "eur": "1.06",
         "local": {
           "currency": "₱",
-          "value": "74.60"
+          "value": "74.80"
         }
       },
       "diesel": {
         "eur": "1.03",
         "local": {
           "currency": "₱",
-          "value": "72.80"
+          "value": "73.00"
         }
       },
       "lpg": {
         "eur": "0.62",
         "local": {
           "currency": "₱",
-          "value": "43.80"
+          "value": "43.90"
         }
       }
     },
     "Qatar": {
       "gasoline95": {
-        "eur": "0.50",
+        "eur": "0.51",
         "local": {
           "currency": "QR",
-          "value": "2.09"
+          "value": "2.10"
         }
       },
       "diesel": {
         "eur": "0.49",
         "local": {
           "currency": "QR",
-          "value": "2.04"
+          "value": "2.05"
         }
       },
       "lpg": {
@@ -632,14 +632,14 @@
         "eur": "0.54",
         "local": {
           "currency": "SAR",
-          "value": "2.32"
+          "value": "2.33"
         }
       },
       "diesel": {
         "eur": "0.42",
         "local": {
           "currency": "SAR",
-          "value": "1.78"
+          "value": "1.79"
         }
       },
       "lpg": {
@@ -655,7 +655,7 @@
         "eur": "2.03",
         "local": {
           "currency": "S$",
-          "value": "2.99"
+          "value": "3.00"
         }
       },
       "diesel": {
@@ -675,21 +675,21 @@
         "eur": "1.11",
         "local": {
           "currency": "₩",
-          "value": "1870"
+          "value": "1859"
         }
       },
       "diesel": {
         "eur": "1.10",
         "local": {
           "currency": "₩",
-          "value": "1855"
+          "value": "1844"
         }
       },
       "lpg": {
         "eur": "0.67",
         "local": {
           "currency": "₩",
-          "value": "1132"
+          "value": "1128"
         }
       }
     },
@@ -698,14 +698,14 @@
         "eur": "1.29",
         "local": {
           "currency": "₨",
-          "value": "493"
+          "value": "495"
         }
       },
       "diesel": {
-        "eur": "1.24",
+        "eur": "1.25",
         "local": {
           "currency": "₨",
-          "value": "477"
+          "value": "478"
         }
       },
       "lpg": {
@@ -718,14 +718,14 @@
         "eur": "0.97",
         "local": {
           "currency": "£S",
-          "value": "12262"
+          "value": "12294"
         }
       },
       "diesel": {
         "eur": "0.80",
         "local": {
           "currency": "£S",
-          "value": "10099"
+          "value": "10125"
         }
       },
       "lpg": {
@@ -768,7 +768,7 @@
         "eur": "0.91",
         "local": {
           "currency": "฿",
-          "value": "35.20"
+          "value": "35.30"
         }
       },
       "lpg": {
@@ -781,7 +781,7 @@
         "eur": "0.38",
         "local": {
           "currency": "T",
-          "value": "1.50"
+          "value": "1.51"
         }
       },
       "diesel": {
@@ -801,14 +801,14 @@
         "eur": "0.78",
         "local": {
           "currency": "AED",
-          "value": "3.28"
+          "value": "3.29"
         }
       },
       "diesel": {
         "eur": "0.86",
         "local": {
           "currency": "AED",
-          "value": "3.59"
+          "value": "3.60"
         }
       },
       "lpg": {
@@ -821,14 +821,14 @@
         "eur": "1.17",
         "local": {
           "currency": "лв",
-          "value": "16027"
+          "value": "16134"
         }
       },
       "diesel": {
         "eur": "0.98",
         "local": {
           "currency": "лв",
-          "value": "13454"
+          "value": "13544"
         }
       },
       "lpg": {
@@ -841,14 +841,14 @@
         "eur": "0.69",
         "local": {
           "currency": "₫",
-          "value": "20816"
+          "value": "20856"
         }
       },
       "diesel": {
         "eur": "0.73",
         "local": {
           "currency": "₫",
-          "value": "21972"
+          "value": "22015"
         }
       },
       "lpg": {
