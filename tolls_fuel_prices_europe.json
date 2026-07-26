@@ -1,7 +1,7 @@
 {
   "continent": "europe",
   "data_date": "2026-07-20",
-  "updated_at": "2026-07-25T07:47:10.913118+00:00",
+  "updated_at": "2026-07-26T08:03:20.658366+00:00",
   "countries": {
     "Albania": {
       "gasoline95": {
@@ -255,14 +255,14 @@
         "eur": "1.24",
         "local": {
           "currency": "₾",
-          "value": "3.69"
+          "value": "3.68"
         }
       },
       "diesel": {
         "eur": "1.33",
         "local": {
           "currency": "₾",
-          "value": "3.98"
+          "value": "3.97"
         }
       },
       "lpg": {
@@ -464,7 +464,7 @@
         "eur": "0.39",
         "local": {
           "currency": "lei",
-          "value": "7.77"
+          "value": "7.78"
         }
       }
     },
@@ -522,14 +522,14 @@
         "eur": "1.44",
         "local": {
           "currency": "den",
-          "value": "88.20"
+          "value": "88.30"
         }
       },
       "lpg": {
         "eur": "0.76",
         "local": {
           "currency": "den",
-          "value": "46.70"
+          "value": "46.80"
         }
       }
     },
@@ -575,7 +575,7 @@
         "eur": "0.72",
         "local": {
           "currency": "zł",
-          "value": "3.11"
+          "value": "3.12"
         }
       }
     },
@@ -598,14 +598,14 @@
         "eur": "1.72",
         "local": {
           "currency": "lei",
-          "value": "8.98"
+          "value": "8.99"
         }
       },
       "diesel": {
         "eur": "1.89",
         "local": {
           "currency": "lei",
-          "value": "9.86"
+          "value": "9.87"
         }
       },
       "lpg": {
@@ -621,7 +621,7 @@
         "eur": "0.81",
         "local": {
           "currency": "₽",
-          "value": "72.00"
+          "value": "71.90"
         }
       },
       "diesel": {
@@ -786,21 +786,21 @@
         "eur": "1.51",
         "local": {
           "currency": "₴",
-          "value": "77.20"
+          "value": "77.10"
         }
       },
       "diesel": {
         "eur": "1.57",
         "local": {
           "currency": "₴",
-          "value": "80.10"
+          "value": "79.90"
         }
       },
       "lpg": {
         "eur": "0.78",
         "local": {
           "currency": "₴",
-          "value": "40.00"
+          "value": "39.90"
         }
       }
     },
