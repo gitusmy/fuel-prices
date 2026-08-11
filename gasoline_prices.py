@@ -22,7 +22,14 @@ def get_gasoline_prices(continent='world'):
     if not tables:
         raise ValueError("No table found on page")
     
-    rows = re.findall(r'<tr[^>]*>(.*?)</tr>', tables[0], re.DOTALL)
+    rows = []
+    for table in tables:
+        candidate = re.findall(r'<tr[^>]*>(.*?)</tr>', table, re.DOTALL)
+        if any('<td' in row for row in candidate):
+            rows = candidate
+            break
+    if not rows:
+        raise ValueError("No data table found on page")
     
     countries = []
     for row in rows:
