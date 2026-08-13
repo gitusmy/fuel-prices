@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T07:03:30.652202+00:00",
+  "updated_at": "2026-08-13T07:07:24.102548+00:00",
   "continent": "world",
   "countries": [
     {
@@ -325,6 +325,13 @@
       "unit": "USD/Liter"
     },
     {
+      "country": "Tanzania",
+      "last": 1.47,
+      "previous": 1.52,
+      "reference": "Aug/26",
+      "unit": "USD/Liter"
+    },
+    {
       "country": "Ghana",
       "last": 1.48,
       "previous": 1.49,
@@ -335,13 +342,6 @@
       "country": "Malta",
       "last": 1.52,
       "previous": 1.53,
-      "reference": "Jul/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Tanzania",
-      "last": 1.52,
-      "previous": 1.17,
       "reference": "Jul/26",
       "unit": "USD/Liter"
     },
