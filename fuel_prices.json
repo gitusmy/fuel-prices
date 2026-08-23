@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-22T06:18:19.835214+00:00",
-  "revision": 146,
+  "updated_at": "2026-08-23T06:19:42.230057+00:00",
+  "revision": 148,
   "week": 34,
   "year": 2026,
-  "countryCount": 28,
+  "countryCount": 27,
   "countries": [
     {
       "country": "AT",
@@ -487,24 +487,6 @@
         },
         "LPG": {
           "currentPrice": 0,
-          "previousPrice": null
-        }
-      }
-    },
-    {
-      "country": "UA",
-      "currency": "€",
-      "fuels": {
-        "A95": {
-          "currentPrice": 1.53,
-          "previousPrice": null
-        },
-        "Diesel": {
-          "currentPrice": 1.76,
-          "previousPrice": null
-        },
-        "LPG": {
-          "currentPrice": 0.84,
           "previousPrice": null
         }
       }
