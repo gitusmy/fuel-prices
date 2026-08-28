@@ -1,21 +1,21 @@
 {
   "continent": "americas",
   "data_date": "2026-08-24",
-  "updated_at": "2026-08-27T16:58:26.972122+00:00",
+  "updated_at": "2026-08-28T17:48:09.398757+00:00",
   "countries": {
     "Argentina": {
       "gasoline95": {
         "eur": "1.22",
         "local": {
           "currency": "$",
-          "value": "2152"
+          "value": "2148"
         }
       },
       "diesel": {
         "eur": "1.28",
         "local": {
           "currency": "$",
-          "value": "2257"
+          "value": "2252"
         }
       },
       "lpg": {
@@ -35,7 +35,7 @@
         "eur": "1.37",
         "local": {
           "currency": "ƒ",
-          "value": "2.86"
+          "value": "2.85"
         }
       },
       "lpg": {
@@ -55,7 +55,7 @@
         "eur": "1.45",
         "local": {
           "currency": "B$",
-          "value": "1.69"
+          "value": "1.68"
         }
       },
       "lpg": {
@@ -68,7 +68,7 @@
         "eur": "1.71",
         "local": {
           "currency": "B$",
-          "value": "3.99"
+          "value": "3.98"
         }
       },
       "diesel": {
@@ -95,7 +95,7 @@
         "eur": "1.57",
         "local": {
           "currency": "BZ$",
-          "value": "3.69"
+          "value": "3.68"
         }
       },
       "lpg": {
@@ -115,7 +115,7 @@
         "eur": "0.73",
         "local": {
           "currency": "$b",
-          "value": "9.84"
+          "value": "9.85"
         }
       },
       "lpg": {
@@ -128,14 +128,14 @@
         "eur": "1.08",
         "local": {
           "currency": "R$",
-          "value": "6.51"
+          "value": "6.52"
         }
       },
       "diesel": {
         "eur": "1.08",
         "local": {
           "currency": "R$",
-          "value": "6.47"
+          "value": "6.48"
         }
       },
       "lpg": {
@@ -151,21 +151,21 @@
         "eur": "1.25",
         "local": {
           "currency": "C$",
-          "value": "2.03"
+          "value": "2.02"
         }
       },
       "diesel": {
         "eur": "1.48",
         "local": {
           "currency": "C$",
-          "value": "2.39"
+          "value": "2.38"
         }
       },
       "lpg": {
         "eur": "0.79",
         "local": {
           "currency": "C$",
-          "value": "1.28"
+          "value": "1.27"
         }
       }
     },
@@ -194,21 +194,21 @@
         "eur": "1.38",
         "local": {
           "currency": "$",
-          "value": "1475"
+          "value": "1485"
         }
       },
       "diesel": {
         "eur": "1.19",
         "local": {
           "currency": "$",
-          "value": "1278"
+          "value": "1287"
         }
       },
       "lpg": {
         "eur": "0.63",
         "local": {
           "currency": "$",
-          "value": "675"
+          "value": "680"
         }
       }
     },
@@ -217,14 +217,14 @@
         "eur": "1.18",
         "local": {
           "currency": "$",
-          "value": "4297"
+          "value": "4331"
         }
       },
       "diesel": {
         "eur": "0.84",
         "local": {
           "currency": "$",
-          "value": "3060"
+          "value": "3084"
         }
       },
       "lpg": {
@@ -237,14 +237,14 @@
         "eur": "1.33",
         "local": {
           "currency": "₡",
-          "value": "706"
+          "value": "704"
         }
       },
       "diesel": {
         "eur": "1.15",
         "local": {
           "currency": "₡",
-          "value": "608"
+          "value": "606"
         }
       },
       "lpg": {
@@ -257,14 +257,14 @@
         "eur": "1.72",
         "local": {
           "currency": "₱",
-          "value": "48.10"
+          "value": "48.00"
         }
       },
       "diesel": {
         "eur": "1.72",
         "local": {
           "currency": "₱",
-          "value": "48.10"
+          "value": "48.00"
         }
       },
       "lpg": {
@@ -277,7 +277,7 @@
         "eur": "1.23",
         "local": {
           "currency": "ƒ",
-          "value": "2.58"
+          "value": "2.57"
         }
       },
       "diesel": {
@@ -304,7 +304,7 @@
         "eur": "1.30",
         "local": {
           "currency": "EC$",
-          "value": "4.10"
+          "value": "4.09"
         }
       },
       "lpg": {
@@ -397,14 +397,14 @@
         "eur": "0.94",
         "local": {
           "currency": "G$",
-          "value": "229"
+          "value": "228"
         }
       },
       "diesel": {
         "eur": "0.98",
         "local": {
           "currency": "G$",
-          "value": "239"
+          "value": "238"
         }
       },
       "lpg": {
@@ -500,14 +500,14 @@
         "eur": "1.15",
         "local": {
           "currency": "C$",
-          "value": "49.20"
+          "value": "49.10"
         }
       },
       "diesel": {
         "eur": "1.01",
         "local": {
           "currency": "C$",
-          "value": "43.40"
+          "value": "43.30"
         }
       },
       "lpg": {
@@ -540,21 +540,21 @@
         "eur": "1.07",
         "local": {
           "currency": "₲",
-          "value": "7493"
+          "value": "7420"
         }
       },
       "diesel": {
         "eur": "1.19",
         "local": {
           "currency": "₲",
-          "value": "8289"
+          "value": "8209"
         }
       },
       "lpg": {
         "eur": "0.61",
         "local": {
           "currency": "₲",
-          "value": "4238"
+          "value": "4196"
         }
       }
     },
@@ -563,21 +563,21 @@
         "eur": "1.48",
         "local": {
           "currency": "S/.",
-          "value": "5.80"
+          "value": "5.78"
         }
       },
       "diesel": {
         "eur": "1.69",
         "local": {
           "currency": "S/.",
-          "value": "6.61"
+          "value": "6.59"
         }
       },
       "lpg": {
         "eur": "0.55",
         "local": {
           "currency": "S/.",
-          "value": "2.16"
+          "value": "2.15"
         }
       }
     },
@@ -606,14 +606,14 @@
         "eur": "1.17",
         "local": {
           "currency": "EC$",
-          "value": "3.70"
+          "value": "3.69"
         }
       },
       "diesel": {
         "eur": "1.17",
         "local": {
           "currency": "EC$",
-          "value": "3.70"
+          "value": "3.69"
         }
       },
       "lpg": {
@@ -626,7 +626,7 @@
         "eur": "1.09",
         "local": {
           "currency": "Sr$",
-          "value": "48.20"
+          "value": "48.10"
         }
       },
       "diesel": {
@@ -646,14 +646,14 @@
         "eur": "0.98",
         "local": {
           "currency": "TT$",
-          "value": "7.76"
+          "value": "7.74"
         }
       },
       "diesel": {
         "eur": "0.56",
         "local": {
           "currency": "TT$",
-          "value": "4.41"
+          "value": "4.40"
         }
       },
       "lpg": {
@@ -666,7 +666,7 @@
         "eur": "1.15",
         "local": {
           "currency": "$",
-          "value": "1.34"
+          "value": "1.33"
         }
       },
       "diesel": {
@@ -686,14 +686,14 @@
         "eur": "1.90",
         "local": {
           "currency": "U$",
-          "value": "88.80"
+          "value": "88.60"
         }
       },
       "diesel": {
         "eur": "1.25",
         "local": {
           "currency": "U$",
-          "value": "58.80"
+          "value": "58.70"
         }
       },
       "lpg": {
@@ -706,14 +706,14 @@
         "eur": "0.03",
         "local": {
           "currency": "Bs",
-          "value": "2764216"
+          "value": "2770475"
         }
       },
       "diesel": {
         "eur": "0.00",
         "local": {
           "currency": "Bs",
-          "value": "312237"
+          "value": "312944"
         }
       },
       "lpg": {
