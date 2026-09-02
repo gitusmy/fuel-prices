@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T10:38:39.313224+00:00",
+  "updated_at": "2026-09-02T10:04:37.263866+00:00",
   "continent": "world",
   "countries": [
     {
@@ -311,16 +311,16 @@
       "unit": "USD/Liter"
     },
     {
-      "country": "Australia",
-      "last": 1.44,
-      "previous": 1.27,
-      "reference": "Aug/26",
+      "country": "Tanzania",
+      "last": 1.43,
+      "previous": 1.47,
+      "reference": "Sep/26",
       "unit": "USD/Liter"
     },
     {
-      "country": "Tanzania",
-      "last": 1.47,
-      "previous": 1.52,
+      "country": "Australia",
+      "last": 1.44,
+      "previous": 1.27,
       "reference": "Aug/26",
       "unit": "USD/Liter"
     },
