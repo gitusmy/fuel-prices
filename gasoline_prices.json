@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T10:04:37.263866+00:00",
+  "updated_at": "2026-09-03T10:14:50.928705+00:00",
   "continent": "world",
   "countries": [
     {
@@ -150,13 +150,6 @@
       "unit": "USD/Liter"
     },
     {
-      "country": "United States",
-      "last": 1.04,
-      "previous": 1.07,
-      "reference": "Jul/26",
-      "unit": "USD/Liter"
-    },
-    {
       "country": "China",
       "last": 1.05,
       "previous": 1.03,
@@ -179,6 +172,13 @@
     },
     {
       "country": "Japan",
+      "last": 1.07,
+      "previous": 1.04,
+      "reference": "Aug/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "United States",
       "last": 1.07,
       "previous": 1.04,
       "reference": "Aug/26",
@@ -285,8 +285,8 @@
     {
       "country": "Guatemala",
       "last": 1.37,
-      "previous": 1.17,
-      "reference": "Jul/26",
+      "previous": 1.37,
+      "reference": "Aug/26",
       "unit": "USD/Liter"
     },
     {
