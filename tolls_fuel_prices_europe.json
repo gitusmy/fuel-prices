@@ -1,7 +1,7 @@
 {
   "continent": "europe",
   "data_date": "2026-09-14",
-  "updated_at": "2026-09-19T09:50:57.387051+00:00",
+  "updated_at": "2026-09-20T10:12:28.931413+00:00",
   "countries": {
     "Albania": {
       "gasoline95": {
@@ -386,7 +386,7 @@
         "eur": "2.42",
         "local": {
           "currency": "CHF",
-          "value": "2.29"
+          "value": "2.28"
         }
       },
       "lpg": {
@@ -441,21 +441,21 @@
         "eur": "1.65",
         "local": {
           "currency": "lei",
-          "value": "33.40"
+          "value": "33.30"
         }
       },
       "diesel": {
         "eur": "1.74",
         "local": {
           "currency": "lei",
-          "value": "35.20"
+          "value": "35.10"
         }
       },
       "lpg": {
         "eur": "0.77",
         "local": {
           "currency": "lei",
-          "value": "15.60"
+          "value": "15.50"
         }
       }
     },
@@ -513,7 +513,7 @@
         "eur": "1.62",
         "local": {
           "currency": "den",
-          "value": "99.60"
+          "value": "99.70"
         }
       },
       "lpg": {
@@ -738,7 +738,7 @@
         "eur": "2.43",
         "local": {
           "currency": "CHF",
-          "value": "2.30"
+          "value": "2.29"
         }
       },
       "lpg": {
@@ -761,7 +761,7 @@
         "eur": "1.79",
         "local": {
           "currency": "₺",
-          "value": "100"
+          "value": "100.00"
         }
       },
       "lpg": {
@@ -774,21 +774,21 @@
         "eur": "1.68",
         "local": {
           "currency": "₴",
-          "value": "86.20"
+          "value": "86.10"
         }
       },
       "diesel": {
         "eur": "1.89",
         "local": {
           "currency": "₴",
-          "value": "97.10"
+          "value": "97.00"
         }
       },
       "lpg": {
         "eur": "0.85",
         "local": {
           "currency": "₴",
-          "value": "43.70"
+          "value": "43.60"
         }
       }
     },
