@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T11:28:45.227973+00:00",
+  "updated_at": "2026-10-01T11:57:04.218450+00:00",
   "continent": "world",
   "countries": [
     {
@@ -157,13 +157,6 @@
       "unit": "USD/Liter"
     },
     {
-      "country": "United States",
-      "last": 1.07,
-      "previous": 1.04,
-      "reference": "Aug/26",
-      "unit": "USD/Liter"
-    },
-    {
       "country": "Japan",
       "last": 1.08,
       "previous": 1.07,
@@ -181,6 +174,13 @@
       "country": "Lithuania",
       "last": 1.14,
       "previous": 1.97,
+      "reference": "Sep/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "United States",
+      "last": 1.15,
+      "previous": 1.07,
       "reference": "Sep/26",
       "unit": "USD/Liter"
     },
