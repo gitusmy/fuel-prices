@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T11:57:04.218450+00:00",
+  "updated_at": "2026-10-02T11:28:34.423074+00:00",
   "continent": "world",
   "countries": [
     {
@@ -402,13 +402,6 @@
       "unit": "USD/Liter"
     },
     {
-      "country": "New Zealand",
-      "last": 1.76,
-      "previous": 1.7,
-      "reference": "Aug/26",
-      "unit": "USD/Liter"
-    },
-    {
       "country": "Macedonia",
       "last": 1.85,
       "previous": 1.76,
@@ -418,6 +411,13 @@
     {
       "country": "Bosnia and Herzegovina",
       "last": 1.87,
+      "previous": 1.76,
+      "reference": "Sep/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "New Zealand",
+      "last": 1.88,
       "previous": 1.76,
       "reference": "Sep/26",
       "unit": "USD/Liter"
