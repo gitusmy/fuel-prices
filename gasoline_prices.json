@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T12:11:15.096353+00:00",
+  "updated_at": "2026-10-08T12:21:45.168430+00:00",
   "continent": "world",
   "countries": [
     {
@@ -304,13 +304,6 @@
       "unit": "USD/Liter"
     },
     {
-      "country": "Tanzania",
-      "last": 1.43,
-      "previous": 1.47,
-      "reference": "Sep/26",
-      "unit": "USD/Liter"
-    },
-    {
       "country": "Chile",
       "last": 1.51,
       "previous": 1.54,
@@ -329,6 +322,13 @@
       "last": 1.53,
       "previous": 1.37,
       "reference": "Sep/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Tanzania",
+      "last": 1.53,
+      "previous": 1.43,
+      "reference": "Oct/26",
       "unit": "USD/Liter"
     },
     {
@@ -647,6 +647,13 @@
       "unit": "USD/Liter"
     },
     {
+      "country": "Singapore",
+      "last": 2.71,
+      "previous": 2.63,
+      "reference": "Sep/26",
+      "unit": "USD/Liter"
+    },
+    {
       "country": "Denmark",
       "last": 2.93,
       "previous": 2.83,
@@ -657,13 +664,6 @@
       "country": "Netherlands",
       "last": 3.01,
       "previous": 2.9,
-      "reference": "Sep/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Singapore",
-      "last": 3.46,
-      "previous": 3.34,
       "reference": "Sep/26",
       "unit": "USD/Liter"
     },
