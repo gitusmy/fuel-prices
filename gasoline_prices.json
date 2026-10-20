@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T11:25:01.252779+00:00",
+  "updated_at": "2026-10-20T10:31:31.684975+00:00",
   "continent": "world",
   "countries": [
     {
@@ -115,16 +115,16 @@
       "unit": "USD/Liter"
     },
     {
-      "country": "Trinidad And Tobago",
-      "last": 0.88,
-      "previous": 0.86,
-      "reference": "Aug/26",
-      "unit": "USD/Liter"
-    },
-    {
       "country": "Philippines",
       "last": 0.91,
       "previous": 0.91,
+      "reference": "Sep/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "Trinidad And Tobago",
+      "last": 0.98,
+      "previous": 0.88,
       "reference": "Sep/26",
       "unit": "USD/Liter"
     },
