@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T13:59:27.480318+00:00",
+  "updated_at": "2026-11-03T13:07:41.974967+00:00",
   "continent": "world",
   "countries": [
     {
@@ -172,9 +172,9 @@
     },
     {
       "country": "United States",
-      "last": 1.15,
-      "previous": 1.07,
-      "reference": "Sep/26",
+      "last": 1.14,
+      "previous": 1.15,
+      "reference": "Oct/26",
       "unit": "USD/Liter"
     },
     {
