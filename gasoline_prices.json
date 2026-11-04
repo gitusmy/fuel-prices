@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T13:07:41.974967+00:00",
+  "updated_at": "2026-11-04T13:23:45.003933+00:00",
   "continent": "world",
   "countries": [
     {
@@ -423,13 +423,6 @@
       "unit": "USD/Liter"
     },
     {
-      "country": "New Zealand",
-      "last": 1.88,
-      "previous": 1.76,
-      "reference": "Sep/26",
-      "unit": "USD/Liter"
-    },
-    {
       "country": "Croatia",
       "last": 1.89,
       "previous": 2.01,
@@ -496,6 +489,13 @@
       "country": "Austria",
       "last": 2.06,
       "previous": 2.26,
+      "reference": "Oct/26",
+      "unit": "USD/Liter"
+    },
+    {
+      "country": "New Zealand",
+      "last": 2.06,
+      "previous": 1.88,
       "reference": "Oct/26",
       "unit": "USD/Liter"
     },
