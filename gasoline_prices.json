@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T12:19:31.678119+00:00",
+  "updated_at": "2026-11-09T14:32:34.386877+00:00",
   "continent": "world",
   "countries": [
     {
@@ -355,8 +355,8 @@
     {
       "country": "Montenegro",
       "last": 1.65,
-      "previous": 1.68,
-      "reference": "Sep/26",
+      "previous": 1.65,
+      "reference": "Oct/26",
       "unit": "USD/Liter"
     },
     {
