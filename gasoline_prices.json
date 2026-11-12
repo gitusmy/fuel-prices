@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T13:04:45.374958+00:00",
+  "updated_at": "2026-11-12T14:07:10.107375+00:00",
   "continent": "world",
   "countries": [
     {
@@ -318,6 +318,13 @@
       "unit": "USD/Liter"
     },
     {
+      "country": "Peru",
+      "last": 1.49,
+      "previous": 1.65,
+      "reference": "Oct/26",
+      "unit": "USD/Liter"
+    },
+    {
       "country": "Tanzania",
       "last": 1.53,
       "previous": 1.43,
@@ -357,13 +364,6 @@
       "last": 1.65,
       "previous": 1.65,
       "reference": "Oct/26",
-      "unit": "USD/Liter"
-    },
-    {
-      "country": "Peru",
-      "last": 1.65,
-      "previous": 1.68,
-      "reference": "Sep/26",
       "unit": "USD/Liter"
     },
     {
